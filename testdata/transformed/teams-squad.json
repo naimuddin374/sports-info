@@ -1,0 +1,291 @@
+{
+  "external_id": null,
+  "id": null,
+  "data": [
+    {
+      "GROUP_ID": 12,
+      "GROUP_LABEL": "Goalkeepers",
+      "ITEMS": [
+        {
+          "PLAYER_ID": "CxgywZ8L",
+          "PLAYER_NAME": "Carson Scott",
+          "PLAYER_TYPE_ID": "GOALKEEPER",
+          "PLAYER_JERSEY_NUMBER": 33,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/EZmj3REG-UFVLRWAb.png"
+        },
+        {
+          "PLAYER_ID": "UDODA71I",
+          "PLAYER_NAME": "Ederson",
+          "PLAYER_TYPE_ID": "GOALKEEPER",
+          "PLAYER_JERSEY_NUMBER": 31,
+          "PLAYER_FLAG_ID": 39,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/E9pFs3xS-z7Z3VTfK.png"
+        },
+        {
+          "PLAYER_ID": "ziwqjAVc",
+          "PLAYER_NAME": "Slicker Cieran",
+          "PLAYER_TYPE_ID": "GOALKEEPER",
+          "PLAYER_JERSEY_NUMBER": 13,
+          "PLAYER_FLAG_ID": 199,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "dQmyRuE7",
+          "PLAYER_NAME": "Steffen Zackary",
+          "PLAYER_TYPE_ID": "GOALKEEPER",
+          "PLAYER_JERSEY_NUMBER": 13,
+          "PLAYER_FLAG_ID": 200,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/YD1si6FG-CCnd1ycj.png"
+        }
+      ]
+    },
+    {
+      "GROUP_ID": 13,
+      "GROUP_LABEL": "Defenders",
+      "ITEMS": [
+        {
+          "PLAYER_ID": "6LBvaQoh",
+          "PLAYER_NAME": "Ake Nathan",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 6,
+          "PLAYER_FLAG_ID": 139,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/AgqbRJHG-AFKQTAPF.png"
+        },
+        {
+          "PLAYER_ID": "dAyeWYpm",
+          "PLAYER_NAME": "Cancelo Joao",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 27,
+          "PLAYER_FLAG_ID": 155,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/2qUz4ZEG-OQnrqDWS.png"
+        },
+        {
+          "PLAYER_ID": "OpVD3nmU",
+          "PLAYER_NAME": "Dias Ruben",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 3,
+          "PLAYER_FLAG_ID": 155,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/UHrkj1Fa-hK9H3VfT.png"
+        },
+        {
+          "PLAYER_ID": "40JwLfzE",
+          "PLAYER_NAME": "Egan-Riley CJ",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 3,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/ADJ3NiWg-QskZKbE7.png"
+        },
+        {
+          "PLAYER_ID": "SYnaB65s",
+          "PLAYER_NAME": "Laporte Aymeric",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 14,
+          "PLAYER_FLAG_ID": 176,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/noHbTfxS-Kt2SQ6ja.png"
+        },
+        {
+          "PLAYER_ID": "Khr34SL6",
+          "PLAYER_NAME": "Mbete Luke",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 4,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "SlLxn4xl",
+          "PLAYER_NAME": "Stones John",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 5,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/ngBIaFyS-Es8aB1AD.png"
+        },
+        {
+          "PLAYER_ID": "QeLg6KGD",
+          "PLAYER_NAME": "Walker Kyle",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 2,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/n7GqvDYA-Or61d9TJ.png"
+        },
+        {
+          "PLAYER_ID": "pAWruYiN",
+          "PLAYER_NAME": "Wilson-Esbrand Josh",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 5,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "MwSCTKq6",
+          "PLAYER_NAME": "Zinchenko Oleksandr",
+          "PLAYER_TYPE_ID": "DEFENDER",
+          "PLAYER_JERSEY_NUMBER": 11,
+          "PLAYER_FLAG_ID": 195,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/2RYAuP9r-4SdfD8cq.png"
+        }
+      ]
+    },
+    {
+      "GROUP_ID": 14,
+      "GROUP_LABEL": "Midfielders",
+      "ITEMS": [
+        {
+          "PLAYER_ID": "GzxuaXeQ",
+          "PLAYER_NAME": "Bobb Oscar",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 7,
+          "PLAYER_FLAG_ID": 145,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "MsPs6OI5",
+          "PLAYER_NAME": "De Bruyne Kevin",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 17,
+          "PLAYER_FLAG_ID": 32,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/K6kzABXg-hItTEAEO.png"
+        },
+        {
+          "PLAYER_ID": "2JwK7ZfJ",
+          "PLAYER_NAME": "Fernandinho",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 25,
+          "PLAYER_FLAG_ID": 39,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/Eqa0xJil-4fDJH34f.png"
+        },
+        {
+          "PLAYER_ID": "E7XjDJns",
+          "PLAYER_NAME": "Foden Phil",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 47,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/SnL3fVjl-KKnIJtQ7.png"
+        },
+        {
+          "PLAYER_ID": "QVKaRfO9",
+          "PLAYER_NAME": "Grealish Jack",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 10,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/p2xd0Ee5-l0Wg79Cb.png"
+        },
+        {
+          "PLAYER_ID": "hCQ7jhL3",
+          "PLAYER_NAME": "Gundogan Ilkay",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 8,
+          "PLAYER_FLAG_ID": 81,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/K8OVvUCa-OhTSnXw3.png"
+        },
+        {
+          "PLAYER_ID": "UepSPHBj",
+          "PLAYER_NAME": "Lavia Romeo",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 6,
+          "PLAYER_FLAG_ID": 32,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "zwOgsDSc",
+          "PLAYER_NAME": "McAtee James",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 10,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "h8agbDt7",
+          "PLAYER_NAME": "Palmer Cole",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 80,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/U5YMKHwS-bJmgaOcI.png"
+        },
+        {
+          "PLAYER_ID": "K0G8DB00",
+          "PLAYER_NAME": "Rodri",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 16,
+          "PLAYER_FLAG_ID": 176,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/nVU04icM-nifAbSA3.png"
+        },
+        {
+          "PLAYER_ID": "lUg03qcR",
+          "PLAYER_NAME": "Silva Bernardo",
+          "PLAYER_TYPE_ID": "MIDFIELDER",
+          "PLAYER_JERSEY_NUMBER": 20,
+          "PLAYER_FLAG_ID": 155,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/rmwwuWZA-0476JiJ2.png"
+        }
+      ]
+    },
+    {
+      "GROUP_ID": 15,
+      "GROUP_LABEL": "Forwards",
+      "ITEMS": [
+        {
+          "PLAYER_ID": "6cfkytBh",
+          "PLAYER_NAME": "Delap Liam",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 9,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "EwCgGJ7c",
+          "PLAYER_NAME": "Edozie Samuel",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 11,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "viMb6g9n",
+          "PLAYER_NAME": "Gabriel Jesus",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 9,
+          "PLAYER_FLAG_ID": 39,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/QXmNnjFG-Sdl6420l.png"
+        },
+        {
+          "PLAYER_ID": "I147sZk3",
+          "PLAYER_NAME": "Kayky",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 37,
+          "PLAYER_FLAG_ID": 39,
+          "PLAYER_IMAGE_PATH": null
+        },
+        {
+          "PLAYER_ID": "AkzHA2kB",
+          "PLAYER_NAME": "Mahrez Riyad",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 26,
+          "PLAYER_FLAG_ID": 18,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/hAG6rRxS-U1Ezmn0d.png"
+        },
+        {
+          "PLAYER_ID": "pfm9avwi",
+          "PLAYER_NAME": "Sterling Raheem",
+          "PLAYER_TYPE_ID": "FORWARD",
+          "PLAYER_JERSEY_NUMBER": 7,
+          "PLAYER_FLAG_ID": 198,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/rkfpAOwS-2NrelgcI.png"
+        }
+      ]
+    },
+    {
+      "GROUP_ID": 27,
+      "GROUP_LABEL": "Coach",
+      "ITEMS": [
+        {
+          "PLAYER_ID": "hxNijWrJ",
+          "PLAYER_NAME": "Guardiola Pep",
+          "PLAYER_TYPE_ID": "COACH",
+          "PLAYER_FLAG_ID": 176,
+          "PLAYER_IMAGE_PATH": "https://www.flashscore.com/res/image/data/6cCGPgYA-f7vRLAfI.png"
+        }
+      ]
+    }
+  ]
+}

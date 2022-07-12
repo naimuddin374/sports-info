@@ -1,0 +1,1249 @@
+{
+  "DATA": [
+    {
+      "NAME": "Burkina Faso: Premier League",
+      "HEADER": "Burkina Faso: Premier League;172;xM4AQXYS",
+      "NAME_PART_1": "Burkina Faso",
+      "NAME_PART_2": "Premier League",
+      "TOURNAMENT_TEMPLATE_ID": "zuRA3mqS",
+      "COUNTRY_ID": 42,
+      "COUNTRY_NAME": "Burkina Faso",
+      "TOURNAMENT_STAGE_ID": "xM4AQXYS",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "baOiQtkh",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "42_zuRA3mqS",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Premier League",
+      "URL": "/football/burkina-faso/premier-league/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/vebvF9BO-Yi2AufbD.png",
+      "SORT": "00Burkina Faso012a Faso0000000000001000Premier Leag014League000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "baOiQtkh",
+      "CATEGORY_NAME": "Burkina Faso",
+      "EVENTS": [
+        {
+          "EVENT_ID": "UJIUOZWM",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "AS Police",
+          "ROUND": "Round 22",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483378,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "ASP",
+          "HOME_PARTICIPANT_IDS": [
+            "Yy8Tcqzr"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "AS Police",
+          "FH": "AS Police",
+          "HOME_EVENT_PARTICIPANT_ID": "MgY50NAQ",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/byncmpZA-r3JzeItU.png"
+          ],
+          "IMM": "KEYcn79k",
+          "IMW": "100",
+          "IMP": "tbXZRsHG-2qtJOG19.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "KIK",
+          "AWAY_PARTICIPANT_IDS": [
+            "KEYcn79k"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Kiko",
+          "FK": "Kiko",
+          "AWAY_EVENT_PARTICIPANT_ID": "bFPXesJs",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/tbXZRsHG-2qtJOG19.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        },
+        {
+          "EVENT_ID": "neTPPFHG",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Royal",
+          "ROUND": "Round 22",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483209,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "ROY",
+          "HOME_PARTICIPANT_IDS": [
+            "KtYFyVxC"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Royal",
+          "FH": "Royal",
+          "HOME_EVENT_PARTICIPANT_ID": "ltzb2qtE",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/pMG9NdEG-t2NSiAke.png"
+          ],
+          "IMM": "fBqR7wGD",
+          "IMW": "100",
+          "IMP": "Y5d8N1YA-SUHpmYdK.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "ASF",
+          "AWAY_PARTICIPANT_IDS": [
+            "fBqR7wGD"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "ASF Dioulasso",
+          "FK": "ASF Dioulasso",
+          "AWAY_EVENT_PARTICIPANT_ID": "SWY113eK",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/Y5d8N1YA-SUHpmYdK.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        }
+      ]
+    },
+    {
+      "NAME": "India: I-League",
+      "HEADER": "India: I-League;172;bHusDpyC",
+      "NAME_PART_1": "India",
+      "NAME_PART_2": "I-League",
+      "TOURNAMENT_TEMPLATE_ID": "OQyqbHWB",
+      "COUNTRY_ID": 93,
+      "COUNTRY_NAME": "India",
+      "TOURNAMENT_STAGE_ID": "bHusDpyC",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "fFBEvvAl",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "93_OQyqbHWB",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "I-League",
+      "URL": "/football/india/i-league/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/QZOicXld-4OICrJuR.png",
+      "SORT": "00India       005......0010000000001000I-League    008League000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "fFBEvvAl",
+      "CATEGORY_NAME": "India",
+      "EVENTS": [
+        {
+          "EVENT_ID": "4nYcSFEc",
+          "START_TIME": 1648478100,
+          "START_UTIME": 1648478100,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "SECOND_HALF",
+          "SORT": "Sreenidi Deccan",
+          "ROUND": "Round 8",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 1,
+          "STAGE_START_TIME": 1648481934,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "SRE",
+          "HOME_PARTICIPANT_IDS": [
+            "xb1pAU0F"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Sreenidi Deccan",
+          "FH": "Sreenidi Deccan",
+          "HOME_EVENT_PARTICIPANT_ID": "WvzgN4GA",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "1",
+          "HOME_SCORE_PART_1": "1",
+          "HOME_SCORE_PART_2": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/QVtupkHG-lhhDNzw8.png"
+          ],
+          "IMM": "E11bNKv8",
+          "IMW": "100",
+          "IMP": "htiQvDYg-UFkxova7.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "CHU",
+          "AWAY_PARTICIPANT_IDS": [
+            "E11bNKv8"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Churchill Brothers",
+          "FK": "Churchill Brothers",
+          "AWAY_EVENT_PARTICIPANT_ID": "rFwcMOVG",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "1",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_SCORE_PART_2": "1",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/htiQvDYg-UFkxova7.png"
+          ],
+          "TV_LIVE_STREAMING": {
+            "2": [
+              {
+                "BU": "/bookmaker/16/?from=live-streaming&sport=0",
+                "IU": "/res/image/data/bookmakers/17-16.png",
+                "BN": "bet365",
+                "BI": 16,
+                "BT": "GEO restrictions apply. Funded account required or to have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"
+              }
+            ]
+          },
+          "HAS_LIVE_CENTRE": 1,
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        }
+      ]
+    },
+    {
+      "NAME": "Israel: Leumit League - Promotion Group",
+      "HEADER": "Israel: Leumit League - Promotion Group;172;vN7eFFat",
+      "NAME_PART_1": "Israel",
+      "NAME_PART_2": "Leumit League - Promotion Group",
+      "TOURNAMENT_TEMPLATE_ID": "QeijuHo5",
+      "COUNTRY_ID": 97,
+      "COUNTRY_NAME": "Israel",
+      "TOURNAMENT_STAGE_ID": "vN7eFFat",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "ljCRyxnt",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "97_QeijuHo5",
+      "TOURNAMENT_STAGE_TYPE": 94,
+      "SHORT_NAME": "Leumit League",
+      "URL": "/football/israel/leumit-league/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/6khsWPBO-rsUpuaiP.png",
+      "SORT": "00Israel      006Israel0010000000001000Leumit Leagu031 Group000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "ljCRyxnt",
+      "CATEGORY_NAME": "Israel",
+      "EVENTS": [
+        {
+          "EVENT_ID": "fLf0SGQJ",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Nes Tziona",
+          "ROUND": "Round 31",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483208,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "SEK",
+          "HOME_PARTICIPANT_IDS": [
+            "lhuplssq"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Nes Tziona",
+          "FH": "Nes Tziona",
+          "HOME_EVENT_PARTICIPANT_ID": "jmajcrUE",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/M9JEr8fM-pv0U2x44.png"
+          ],
+          "IMM": "pEhouXc0",
+          "IMW": "100",
+          "IMP": "bR6sY8EG-ptJBJ8XT.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "HAP",
+          "AWAY_PARTICIPANT_IDS": [
+            "pEhouXc0"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Hapoel Kfar Saba",
+          "FK": "Hapoel Kfar Saba",
+          "AWAY_EVENT_PARTICIPANT_ID": "SCMJuGbs",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/bR6sY8EG-ptJBJ8XT.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        }
+      ]
+    },
+    {
+      "NAME": "Israel: Leumit League - Relegation Group",
+      "HEADER": "Israel: Leumit League - Relegation Group;172;Yq7aEZEn",
+      "NAME_PART_1": "Israel",
+      "NAME_PART_2": "Leumit League - Relegation Group",
+      "TOURNAMENT_TEMPLATE_ID": "QeijuHo5",
+      "COUNTRY_ID": 97,
+      "COUNTRY_NAME": "Israel",
+      "TOURNAMENT_STAGE_ID": "Yq7aEZEn",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "ljCRyxnt",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "97_QeijuHo5",
+      "TOURNAMENT_STAGE_TYPE": 73,
+      "SHORT_NAME": "Leumit League",
+      "URL": "/football/israel/leumit-league/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/6khsWPBO-rsUpuaiP.png",
+      "SORT": "00Israel      006Israel0010000000001000Leumit Leagu032 Group000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "ljCRyxnt",
+      "CATEGORY_NAME": "Israel",
+      "EVENTS": [
+        {
+          "EVENT_ID": "SWaXsHs4",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Hap. Ramat Gan",
+          "ROUND": "Round 31",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483254,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "HAP",
+          "HOME_PARTICIPANT_IDS": [
+            "xdPX7jSa"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Hap. Ramat Gan",
+          "FH": "Hap. Ramat Gan",
+          "HOME_EVENT_PARTICIPANT_ID": "fLT3Yhh7",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/fPGxXbFG-8Ku9GYzc.png"
+          ],
+          "IMM": "fucQuOnS",
+          "IMW": "100",
+          "IMP": "fsL4cVWg-j9KYEwSu.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "HAP",
+          "AWAY_PARTICIPANT_IDS": [
+            "fucQuOnS"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "H. Akko",
+          "FK": "H. Akko",
+          "AWAY_EVENT_PARTICIPANT_ID": "YBS7XC7D",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/fsL4cVWg-j9KYEwSu.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        },
+        {
+          "EVENT_ID": "lt1TrcSc",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Ramat Hasharon",
+          "ROUND": "Round 31",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483260,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "IRO",
+          "HOME_PARTICIPANT_IDS": [
+            "tv2KcqX8"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Ramat Hasharon",
+          "FH": "Ramat Hasharon",
+          "HOME_EVENT_PARTICIPANT_ID": "84VezFNf",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/CQVhnSg5-A59c81Id.png"
+          ],
+          "IMM": "2m3GbPH2",
+          "IMW": "100",
+          "IMP": "0KUmb2Ca-h4y58LZJ.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "HAP",
+          "AWAY_PARTICIPANT_IDS": [
+            "2m3GbPH2"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "H. Raanana",
+          "FK": "H. Raanana",
+          "AWAY_EVENT_PARTICIPANT_ID": "neUaZYx1",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/0KUmb2Ca-h4y58LZJ.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        }
+      ]
+    },
+    {
+      "NAME": "Ivory Coast: Ligue 1",
+      "HEADER": "Ivory Coast: Ligue 1;172;04bBQMaS",
+      "NAME_PART_1": "Ivory Coast",
+      "NAME_PART_2": "Ligue 1",
+      "TOURNAMENT_TEMPLATE_ID": "pQS4X6DR",
+      "COUNTRY_ID": 58,
+      "COUNTRY_NAME": "Ivory Coast",
+      "TOURNAMENT_STAGE_ID": "04bBQMaS",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "2X6Q5w8O",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "58_pQS4X6DR",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Ligue 1",
+      "URL": "/football/ivory-coast/ligue-1/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/Oj4y5EYI-0GuOohvh.png",
+      "SORT": "00Ivory Coast 011 Coast0000000000001000Ligue 1     007igue 1000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "2X6Q5w8O",
+      "CATEGORY_NAME": "Ivory Coast",
+      "EVENTS": [
+        {
+          "EVENT_ID": "bXyEoCIC",
+          "START_TIME": 1648481400,
+          "START_UTIME": 1648481400,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Korhogo",
+          "ROUND": "Round 15",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648481387,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "KOR",
+          "HOME_PARTICIPANT_IDS": [
+            "hOsZYZv6"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Korhogo",
+          "FH": "Korhogo",
+          "HOME_EVENT_PARTICIPANT_ID": "KtUznn4f",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/tO5q67f5-M1rTxYLU.png"
+          ],
+          "IMM": "prTU8UIl",
+          "IMW": "100",
+          "IMP": "KG5HbmEa-0fjb1AIu.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "ARM",
+          "AWAY_PARTICIPANT_IDS": [
+            "prTU8UIl"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "SO Armee",
+          "FK": "SO Armee",
+          "AWAY_EVENT_PARTICIPANT_ID": "YqYvo6J0",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "1",
+          "AWAY_SCORE_PART_1": "1",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/KG5HbmEa-0fjb1AIu.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        }
+      ]
+    },
+    {
+      "NAME": "Qatar: QSL Cup - Play Offs",
+      "HEADER": "Qatar: QSL Cup - Play Offs;172;YiRCV0z2",
+      "NAME_PART_1": "Qatar",
+      "NAME_PART_2": "QSL Cup - Play Offs",
+      "TOURNAMENT_TEMPLATE_ID": "fq7BFHaa",
+      "COUNTRY_ID": 156,
+      "COUNTRY_NAME": "Qatar",
+      "TOURNAMENT_STAGE_ID": "YiRCV0z2",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "SAC1MMn3",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 0,
+      "STANDING_INFO": 2,
+      "TEMPLATE_ID": "156_fq7BFHaa",
+      "TOURNAMENT_STAGE_TYPE": 11,
+      "SHORT_NAME": "QSL Cup",
+      "URL": "/football/qatar/qsl-cup/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/AX7kBw8j-ShMOx3Re.png",
+      "SORT": "00Qatar       005......0030000000001000QSL Cup - Pl019y Offs000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "SAC1MMn3",
+      "CATEGORY_NAME": "Qatar",
+      "EVENTS": [
+        {
+          "EVENT_ID": "hjoeCmoK",
+          "START_TIME": 1648481400,
+          "START_UTIME": 1648481400,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Al Wakra",
+          "ROUND": "Final",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 1,
+          "STAGE_START_TIME": 1648481429,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "WAK",
+          "HOME_PARTICIPANT_IDS": [
+            "AFuKpiJt"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Al Wakra",
+          "FH": "Al Wakra",
+          "HOME_EVENT_PARTICIPANT_ID": "Ee5EexpN",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "1",
+          "HOME_SCORE_PART_1": "1",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/p4IeAGhl-OG9GQ46D.png"
+          ],
+          "IMM": "4xuOqBYn",
+          "IMW": "100",
+          "IMP": "KYr9dugl-WbfFP0Ai.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "SAI",
+          "AWAY_PARTICIPANT_IDS": [
+            "4xuOqBYn"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Al Sailiya",
+          "FK": "Al Sailiya",
+          "AWAY_EVENT_PARTICIPANT_ID": "hn4IfdaT",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "1",
+          "AWAY_SCORE_PART_1": "1",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/KYr9dugl-WbfFP0Ai.png"
+          ],
+          "HAS_LIVE_CENTRE": 1,
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        }
+      ]
+    },
+    {
+      "NAME": "Saudi Arabia: Division 1",
+      "HEADER": "Saudi Arabia: Division 1;172;KnEMcCKQ",
+      "NAME_PART_1": "Saudi Arabia",
+      "NAME_PART_2": "Division 1",
+      "TOURNAMENT_TEMPLATE_ID": "8fhFSggG",
+      "COUNTRY_ID": 165,
+      "COUNTRY_NAME": "Saudi Arabia",
+      "TOURNAMENT_STAGE_ID": "KnEMcCKQ",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "6witjU9d",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "165_8fhFSggG",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Division 1",
+      "URL": "/football/saudi-arabia/division-1/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/YaY04aU1-ENPuaHWb.png",
+      "SORT": "00Saudi Arabia012Arabia0010000000001000Division 1  010sion 1000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "6witjU9d",
+      "CATEGORY_NAME": "Saudi Arabia",
+      "EVENTS": [
+        {
+          "EVENT_ID": "j3O0yWAa",
+          "START_TIME": 1648481700,
+          "START_UTIME": 1648481700,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Al-Sahel",
+          "ROUND": "Round 30",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648481780,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "AL-",
+          "HOME_PARTICIPANT_IDS": [
+            "j9dZhHxM"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Al-Sahel",
+          "FH": "Al-Sahel",
+          "HOME_EVENT_PARTICIPANT_ID": "rkS73nUP",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/UXAA6gZA-ni6YptaB.png"
+          ],
+          "IMM": "2VpJYLjK",
+          "IMW": "100",
+          "IMP": "Y1M3reil-lrPouigE.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "OHO",
+          "AWAY_PARTICIPANT_IDS": [
+            "2VpJYLjK"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Ohod",
+          "FK": "Ohod",
+          "AWAY_EVENT_PARTICIPANT_ID": "0UEZb6xs",
+          "AWAY_RED_CARDS": 1,
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/Y1M3reil-lrPouigE.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        },
+        {
+          "EVENT_ID": "KxT4zjQ5",
+          "START_TIME": 1648482900,
+          "START_UTIME": 1648482900,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Najran",
+          "ROUND": "Round 30",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648482917,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "NAJ",
+          "HOME_PARTICIPANT_IDS": [
+            "2w8r3XIs"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Najran",
+          "FH": "Najran",
+          "HOME_EVENT_PARTICIPANT_ID": "vLDwbQim",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/6RgOyqh5-4xIco9pl.png"
+          ],
+          "IMM": "URqHJiim",
+          "IMW": "100",
+          "IMP": "SvO7k1YA-WSNfQbsg.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "ALD",
+          "AWAY_PARTICIPANT_IDS": [
+            "URqHJiim"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Al Draih",
+          "FK": "Al Draih",
+          "AWAY_EVENT_PARTICIPANT_ID": "8fIscp7g",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/SvO7k1YA-WSNfQbsg.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        },
+        {
+          "EVENT_ID": "bTR8Z9uC",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Al Kholood",
+          "ROUND": "Round 30",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483235,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "AL",
+          "HOME_PARTICIPANT_IDS": [
+            "Mqs1WbFK"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Al Kholood",
+          "FH": "Al Kholood",
+          "HOME_EVENT_PARTICIPANT_ID": "noHod4Ma",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/nmhpz2Ca-h0mrWXpf.png"
+          ],
+          "IMM": "hSOFdMch",
+          "IMW": "100",
+          "IMP": "S8svB3yS-nHT1RquS.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "JEE",
+          "AWAY_PARTICIPANT_IDS": [
+            "hSOFdMch"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Al Jeel",
+          "FK": "Al Jeel",
+          "AWAY_EVENT_PARTICIPANT_ID": "t8GkeOy6",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/S8svB3yS-nHT1RquS.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        }
+      ]
+    },
+    {
+      "NAME": "World: Friendly International",
+      "HEADER": "World: Friendly International;156;SOrwDjHE",
+      "NAME_PART_1": "World",
+      "NAME_PART_2": "Friendly International",
+      "TOURNAMENT_TEMPLATE_ID": "f1GbGBCd",
+      "COUNTRY_ID": 8,
+      "COUNTRY_NAME": "World",
+      "TOURNAMENT_STAGE_ID": "SOrwDjHE",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "0",
+      "SOURCE_TYPE": 0,
+      "TEMPLATE_ID": "8_f1GbGBCd",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Friendly International",
+      "URL": "/football/world/friendly-international/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/jiylaOkD-fHcB8pl5.png",
+      "SORT": "00World       005......0070000000001000Friendly Int022tional000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "E3ERLlM7",
+      "CATEGORY_NAME": "World",
+      "EVENTS": [
+        {
+          "EVENT_ID": "On5AzrIT",
+          "START_TIME": 1648479600,
+          "START_UTIME": 1648479600,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "SECOND_HALF",
+          "SORT": "Cape Verde",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 1,
+          "STAGE_START_TIME": 1648483244,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "CAP",
+          "HOME_PARTICIPANT_IDS": [
+            "MocyWdm7"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            17
+          ],
+          "HOME_NAME": "Cape Verde",
+          "FH": "Cape Verde",
+          "HOME_EVENT_PARTICIPANT_ID": "8ItMSqpG",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "1",
+          "HOME_SCORE_PART_1": "1",
+          "HOME_SCORE_PART_2": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/dSMzlcyS-MBBBg4U5.png"
+          ],
+          "IMM": "Wlrb53yT",
+          "IMW": "100",
+          "IMP": "h8PWAHBr-OISiTIOM.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "SAN",
+          "AWAY_PARTICIPANT_IDS": [
+            "Wlrb53yT"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            17
+          ],
+          "AWAY_NAME": "San Marino",
+          "FK": "San Marino",
+          "AWAY_EVENT_PARTICIPANT_ID": "n9uQR3aM",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_SCORE_PART_2": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/h8PWAHBr-OISiTIOM.png"
+          ],
+          "AN": "y",
+          "BOOKMAKERS_WITH_LIVE_IN_OFFER": [
+            "16"
+          ],
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        },
+        {
+          "EVENT_ID": "2iX8lNo3",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Norway U20",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 1,
+          "STAGE_START_TIME": 1648483220,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "NOR",
+          "HOME_PARTICIPANT_IDS": [
+            "2TpEidlj"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            17
+          ],
+          "HOME_NAME": "Norway U20",
+          "FH": "Norway U20",
+          "HOME_EVENT_PARTICIPANT_ID": "pvdmIg4d",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/bNN0IyDa-lC2OX9fL.png"
+          ],
+          "IMM": "vgn4eSmb",
+          "IMW": "100",
+          "IMP": "nTVKaIZA-vHeQQd58.png",
+          "IME": "",
+          "SHORTNAME_AWAY": "ITA",
+          "AWAY_PARTICIPANT_IDS": [
+            "vgn4eSmb"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            17
+          ],
+          "AWAY_NAME": "Italy U20",
+          "FK": "Italy U20",
+          "AWAY_EVENT_PARTICIPANT_ID": "bspVtwsc",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/nTVKaIZA-vHeQQd58.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        }
+      ]
+    },
+    {
+      "NAME": "World: Club Friendly",
+      "HEADER": "World: Club Friendly;156;M7u5SA44",
+      "NAME_PART_1": "World",
+      "NAME_PART_2": "Club Friendly",
+      "TOURNAMENT_TEMPLATE_ID": "Ox0MZaDH",
+      "COUNTRY_ID": 8,
+      "COUNTRY_NAME": "World",
+      "TOURNAMENT_STAGE_ID": "M7u5SA44",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "0",
+      "SOURCE_TYPE": 2,
+      "TEMPLATE_ID": "8_Ox0MZaDH",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Club Friendly",
+      "URL": "/football/world/club-friendly/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/0SRnXj7j-8Y2CFL6c.png",
+      "SORT": "00World       005......0080000000001000Club Friendl013iendly000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "dUdY35vC",
+      "CATEGORY_NAME": "World",
+      "EVENTS": [
+        {
+          "EVENT_ID": "2od3EVLs",
+          "START_TIME": 1648483200,
+          "START_UTIME": 1648483200,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "FIRST_HALF",
+          "SORT": "Stabaek (Nor)",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648483302,
+          "SOURCE_TYPE": "0",
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_AWAY": "KON",
+          "AWAY_PARTICIPANT_IDS": [
+            "EcKec6pj"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "Kongsvinger (Nor)",
+          "FK": "Kongsvinger (Nor)",
+          "AWAY_EVENT_PARTICIPANT_ID": "faA050xp",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "0",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_IMAGES": [
+            "https://www.flashscore.com/res/image/data/0hHN7CYA-E7wKWgza.png"
+          ],
+          "IMM": "CbXNfZvn",
+          "IMW": "100",
+          "IMP": "bBLWRKeM-UeB0QcdS.png",
+          "IME": "",
+          "SHORTNAME_HOME": "STA",
+          "HOME_PARTICIPANT_IDS": [
+            "CbXNfZvn"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Stabaek (Nor)",
+          "FH": "Stabaek (Nor)",
+          "HOME_EVENT_PARTICIPANT_ID": "lM944Kij",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/bBLWRKeM-UeB0QcdS.png"
+          ],
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 1
+        }
+      ]
+    },
+    {
+      "NAME": "World: Viareggio Cup - Play Offs",
+      "HEADER": "World: Viareggio Cup - Play Offs;156;rJHb2vkp",
+      "NAME_PART_1": "World",
+      "NAME_PART_2": "Viareggio Cup - Play Offs",
+      "TOURNAMENT_TEMPLATE_ID": "MBiDl239",
+      "COUNTRY_ID": 8,
+      "COUNTRY_NAME": "World",
+      "TOURNAMENT_STAGE_ID": "rJHb2vkp",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "EyvENt3j",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 0,
+      "STANDING_INFO": 2,
+      "TEMPLATE_ID": "8_MBiDl239",
+      "TOURNAMENT_STAGE_TYPE": 11,
+      "SHORT_NAME": "Viareggio Cup",
+      "URL": "/football/world/viareggio-cup/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/Mi7UOKnd-KQsN9sPM.png",
+      "SORT": "00World       005......0640000000001000Viareggio Cu025y Offs000",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "EyvENt3j",
+      "CATEGORY_NAME": "World",
+      "EVENTS": [
+        {
+          "EVENT_ID": "jexi9JdF",
+          "START_TIME": 1648478700,
+          "START_UTIME": 1648478700,
+          "STAGE_TYPE": "LIVE",
+          "MERGE_STAGE_TYPE": "LIVE",
+          "STAGE": "SECOND_HALF",
+          "SORT": "Empoli U19",
+          "ROUND": "Semi-finals",
+          "VISIBLE_RUN_RATE": 0,
+          "LIVE_MARK": "y",
+          "HAS_LINEPS": 0,
+          "STAGE_START_TIME": 1648482887,
+          "GAME_TIME": "",
+          "RECENT_OVERS": "",
+          "SHORTNAME_HOME": "EMP",
+          "HOME_PARTICIPANT_IDS": [
+            "jRaijO7D"
+          ],
+          "HOME_PARTICIPANT_TYPES": [
+            1
+          ],
+          "HOME_NAME": "Empoli U19",
+          "FH": "Empoli U19",
+          "HOME_EVENT_PARTICIPANT_ID": "0rA0rkE1",
+          "HOME_GOAL_VAR": 0,
+          "HOME_SCORE_CURRENT": "0",
+          "HOME_SCORE_PART_1": "0",
+          "HOME_SCORE_PART_2": "0",
+          "HOME_IMAGES": [
+            "https://www.flashscore.com/res/image/data/z7X2K6Br-z7ZcziyO.png"
+          ],
+          "IMM": "QPARMReo",
+          "IMW": "100",
+          "IMP": "team",
+          "IME": "",
+          "SHORTNAME_AWAY": "ATF",
+          "AWAY_PARTICIPANT_IDS": [
+            "QPARMReo"
+          ],
+          "AWAY_PARTICIPANT_TYPES": [
+            1
+          ],
+          "AWAY_NAME": "ATFA U19",
+          "FK": "ATFA U19",
+          "AWAY_EVENT_PARTICIPANT_ID": "vZ84s9T7",
+          "AWAY_GOAL_VAR": 0,
+          "AWAY_SCORE_CURRENT": "1",
+          "AWAY_SCORE_PART_1": "0",
+          "AWAY_SCORE_PART_2": "1",
+          "AWAY_IMAGES": null,
+          "AN": "n",
+          "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+          "LIVE_IN_OFFER_STATUS": 0
+        }
+      ]
+    }
+  ],
+  "META": {
+    "BOOKMAKERS": [
+      {
+        "BOOKMAKER_ID": 16,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "bet365"
+      },
+      {
+        "BOOKMAKER_ID": 49,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Tipsport.cz"
+      },
+      {
+        "BOOKMAKER_ID": 141,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betclic.fr"
+      },
+      {
+        "BOOKMAKER_ID": 419,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "bet365.it"
+      },
+      {
+        "BOOKMAKER_ID": 165,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "STS.pl"
+      },
+      {
+        "BOOKMAKER_ID": 163,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "eFortuna.pl"
+      },
+      {
+        "BOOKMAKER_ID": 459,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Bwinpt"
+      },
+      {
+        "BOOKMAKER_ID": 545,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betano.pt"
+      },
+      {
+        "BOOKMAKER_ID": 5,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Unibet"
+      },
+      {
+        "BOOKMAKER_ID": 453,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "1xStavka.ru"
+      },
+      {
+        "BOOKMAKER_ID": 411,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Tipsport.sk"
+      },
+      {
+        "BOOKMAKER_ID": 38,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Sportingbet"
+      },
+      {
+        "BOOKMAKER_ID": 533,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betway Africa"
+      },
+      {
+        "BOOKMAKER_ID": 417,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "1xBet"
+      },
+      {
+        "BOOKMAKER_ID": 568,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Bilyoner"
+      },
+      {
+        "BOOKMAKER_ID": 549,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "bet365.nj"
+      },
+      {
+        "BOOKMAKER_ID": 507,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betsafe.lv"
+      },
+      {
+        "BOOKMAKER_ID": 508,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betsafe.ee"
+      },
+      {
+        "BOOKMAKER_ID": 557,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Totonederlandse"
+      },
+      {
+        "BOOKMAKER_ID": 589,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betway Africa Mozambique"
+      },
+      {
+        "BOOKMAKER_ID": 447,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betclic.pt"
+      },
+      {
+        "BOOKMAKER_ID": 24,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betsafe"
+      },
+      {
+        "BOOKMAKER_ID": 27,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "888sport"
+      },
+      {
+        "BOOKMAKER_ID": 43,
+        "BOOKMAKER_BETTING_TYPE": 1,
+        "BOOKMAKER_NAME": "Betsson"
+      }
+    ]
+  },
+  "LAST_CHANGE_KEY": "a55a9fb8dcf84427b8e76f4df44236f0"
+}

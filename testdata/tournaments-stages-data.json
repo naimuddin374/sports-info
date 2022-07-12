@@ -1,0 +1,216 @@
+{
+  "DATA": {
+    "COUNTRY_ID": 198,
+    "COUNTRY_NAME": "England",
+    "LEAGUE_NAME": "Premier League",
+    "SEASON_ID": 172,
+    "TEMPLATE_ID": "198_dYlOSQOD",
+    "PART_SEASON_ID": "tdkpynmB",
+    "STANDINGS_TYPE": 1,
+    "TOURNAMENT_IMAGE": null,
+    "IMM": "198_dYlOSQOD",
+    "IMW": "100",
+    "IMP": "",
+    "IME": "",
+    "SEASONS": [
+      {
+        "SEASON_NAME": "2021/2022",
+        "SEASON_ID": "tdkpynmB",
+        "SEASON_TOURNAMENT_STAGE_ID": "6kJqdMr2",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2020/2021",
+        "SEASON_ID": "AJuiuwWt",
+        "SEASON_TOURNAMENT_STAGE_ID": "zTRyeuJg",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2019/2020",
+        "SEASON_ID": "h2NtrDMq",
+        "SEASON_TOURNAMENT_STAGE_ID": "CxZEqxa7",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2018/2019",
+        "SEASON_ID": "zoZ4r7jR",
+        "SEASON_TOURNAMENT_STAGE_ID": "v1t6uXL7",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2017/2018",
+        "SEASON_ID": "UqQ8LECO",
+        "SEASON_TOURNAMENT_STAGE_ID": "WOO1nDO2",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2016/2017",
+        "SEASON_ID": "8Ai8InSt",
+        "SEASON_TOURNAMENT_STAGE_ID": "fZHsKRg9",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2015/2016",
+        "SEASON_ID": "OhnzLqf7",
+        "SEASON_TOURNAMENT_STAGE_ID": "faBBhyuM",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2014/2015",
+        "SEASON_ID": "hK4hu76a",
+        "SEASON_TOURNAMENT_STAGE_ID": "U9wG88N6",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2013/2014",
+        "SEASON_ID": "OtIGJDpL",
+        "SEASON_TOURNAMENT_STAGE_ID": "Uc3Ascea",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2012/2013",
+        "SEASON_ID": "t88zoFDC",
+        "SEASON_TOURNAMENT_STAGE_ID": "2wDJRkib",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2011/2012",
+        "SEASON_ID": "Ei1I2Y0q",
+        "SEASON_TOURNAMENT_STAGE_ID": "xOR3gQta",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2010/2011",
+        "SEASON_ID": "GdPx4hq9",
+        "SEASON_TOURNAMENT_STAGE_ID": "S0jBn4Ad",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2009/2010",
+        "SEASON_ID": "2HzmcynI",
+        "SEASON_TOURNAMENT_STAGE_ID": "COuk57Ci",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2008/2009",
+        "SEASON_ID": "OQyqbHWB",
+        "SEASON_TOURNAMENT_STAGE_ID": "bLyo6mco",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2007/2008",
+        "SEASON_ID": "hfEfu4rP",
+        "SEASON_TOURNAMENT_STAGE_ID": "GWHpWa8H",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2006/2007",
+        "SEASON_ID": "MBBglOjt",
+        "SEASON_TOURNAMENT_STAGE_ID": "S8pEEXxp",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2005/2006",
+        "SEASON_ID": "GYAcmr6n",
+        "SEASON_TOURNAMENT_STAGE_ID": "xtojRihj",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2004/2005",
+        "SEASON_ID": "EJT0n2Lh",
+        "SEASON_TOURNAMENT_STAGE_ID": "GWqfQB7d",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2003/2004",
+        "SEASON_ID": "drJ5oMza",
+        "SEASON_TOURNAMENT_STAGE_ID": "lAJtwepc",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2002/2003",
+        "SEASON_ID": "vitIptj5",
+        "SEASON_TOURNAMENT_STAGE_ID": "S0IpxFa3",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2001/2002",
+        "SEASON_ID": "nLuro05B",
+        "SEASON_TOURNAMENT_STAGE_ID": "AP7kyZE9",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "2000/2001",
+        "SEASON_ID": "QBvnpKKH",
+        "SEASON_TOURNAMENT_STAGE_ID": "OSBgzgUF",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1999/2000",
+        "SEASON_ID": "AR2Q7R6Q",
+        "SEASON_TOURNAMENT_STAGE_ID": "xr1vVG6i",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1998/1999",
+        "SEASON_ID": "G43M87iK",
+        "SEASON_TOURNAMENT_STAGE_ID": "GKtznzMB",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1997/1998",
+        "SEASON_ID": "tIdlnHde",
+        "SEASON_TOURNAMENT_STAGE_ID": "rwi9r8t1",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1996/1997",
+        "SEASON_ID": "2P4pHDA0",
+        "SEASON_TOURNAMENT_STAGE_ID": "AJJabpCG",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1995/1996",
+        "SEASON_ID": "tG3lGXP6",
+        "SEASON_TOURNAMENT_STAGE_ID": "ImJPb4RM",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1994/1995",
+        "SEASON_ID": "MBhi8ZXd",
+        "SEASON_TOURNAMENT_STAGE_ID": "6adFVEwG",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1993/1994",
+        "SEASON_ID": "SY6M5iXL",
+        "SEASON_TOURNAMENT_STAGE_ID": "MDk3Bph1",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1992/1993",
+        "SEASON_ID": "AsUY4BnS",
+        "SEASON_TOURNAMENT_STAGE_ID": "04l7A477",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1991/1992",
+        "SEASON_ID": "SMG00Vfq",
+        "SEASON_TOURNAMENT_STAGE_ID": "WW0Jzlp8",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1990/1991",
+        "SEASON_ID": "tQK4akAk",
+        "SEASON_TOURNAMENT_STAGE_ID": "ANaNZ7aE",
+        "SEASON_STANDINGS_TYPE": 1
+      },
+      {
+        "SEASON_NAME": "1989/1990",
+        "SEASON_ID": "Y7LPNCH2",
+        "SEASON_TOURNAMENT_STAGE_ID": "QqFTSq7f",
+        "SEASON_STANDINGS_TYPE": 1
+      }
+    ]
+  }
+}

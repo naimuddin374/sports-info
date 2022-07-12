@@ -1,0 +1,85 @@
+{
+  "external_id": "0dnUcqhH",
+  "id": "0dnUcqhH",
+  "type": "event",
+  "data": {
+    "NAME": "England: Premier League",
+    "HEADER": "England: Premier League;172;6kJqdMr2",
+    "NAME_PART_1": "England",
+    "NAME_PART_2": "Premier League",
+    "TOURNAMENT_TEMPLATE_ID": "dYlOSQOD",
+    "COUNTRY_ID": 198,
+    "COUNTRY_NAME": "England",
+    "TOURNAMENT_STAGE_ID": "6kJqdMr2",
+    "TOURNAMENT_TYPE": "t",
+    "TOURNAMENT_ID": "tdkpynmB",
+    "SOURCE_TYPE": 0,
+    "HAS_LIVE_TABLE": 0,
+    "STANDING_INFO": 1,
+    "TEMPLATE_ID": "198_dYlOSQOD",
+    "TOURNAMENT_STAGE_TYPE": 2,
+    "SHORT_NAME": "Premier League",
+    "URL": "/football/england/premier-league/",
+    "TOURNAMENT_IMAGE": null,
+    "STAGES_COUNT": 0,
+    "ZKL": "YXNYEC9j-KOA3eRk5.png",
+    "ZKU": "premier-league",
+    "TOURNAMENT_SEASON_ID": "tdkpynmB",
+    "CATEGORY_NAME": "England",
+    "EVENT_ID": "0dnUcqhH",
+    "START_TIME": 1650481200,
+    "START_UTIME": 1650481200,
+    "STAGE_TYPE": "SCHEDULED",
+    "MERGE_STAGE_TYPE": "SCHEDULED",
+    "STAGE": "SCHEDULED",
+    "SORT": "Manchester City",
+    "ROUND": "Round 30",
+    "ERN": "Round 30",
+    "NATIONAL_EVENT": "",
+    "VISIBLE_RUN_RATE": 0,
+    "HAS_LINEPS": 0,
+    "GAME_TIME": "-1",
+    "PLAYING_ON_SETS": "",
+    "HAS_SWAPPED_PARTICIPANTS": "",
+    "RECENT_OVERS": "",
+    "SHORTNAME_HOME": "MCI",
+    "HOME_PARTICIPANT_IDS": [
+      "Wtn9Stg0"
+    ],
+    "HOME_PARTICIPANT_TYPES": [
+      1
+    ],
+    "RACE_CURRENT_DISTANCE": "",
+    "RACE_RESULTS_LAP_DISTANCE": "",
+    "HOME_NAME": "Manchester City",
+    "FH": "",
+    "HOME_EVENT_PARTICIPANT_ID": "O8Tq4DuO",
+    "HOME_SLUG": "manchester-city",
+    "HOME_GOAL_VAR": 0,
+    "HOME_IMAGES": [
+      "https://www.flashscore.com/res/image/data/UXcqj7HG-zZRehMhm.png"
+    ],
+    "IMM": "2XrRecc3",
+    "IMW": "200",
+    "IMP": "p4PRVE4A-dldTmxQm.png",
+    "IME": "",
+    "SHORTNAME_AWAY": "BHA",
+    "AWAY_PARTICIPANT_IDS": [
+      "2XrRecc3"
+    ],
+    "AWAY_PARTICIPANT_TYPES": [
+      1
+    ],
+    "AWAY_NAME": "Brighton",
+    "FK": "",
+    "AWAY_EVENT_PARTICIPANT_ID": "xCXm3XfU",
+    "AWAY_SLUG": "brighton",
+    "AWAY_GOAL_VAR": 0,
+    "AWAY_IMAGES": [
+      "https://www.flashscore.com/res/image/data/40juIezB-IccPlIAs.png"
+    ],
+    "TV_LIVE_STREAMING": null,
+    "HAS_LIVE_CENTRE": 1,
+    "SHOW_IN_MY_TEAMS": 1
+  }
+}

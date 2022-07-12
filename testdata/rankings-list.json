@@ -1,0 +1,36 @@
+{
+  "DATA": [
+    {
+      "RANKING_ID": "dSJr14Y8",
+      "RANKING_LABEL": "ATP Singles"
+    },
+    {
+      "RANKING_ID": "hfDiar3L",
+      "RANKING_LABEL": "WTA Singles"
+    },
+    {
+      "RANKING_ID": "4KeVObqb",
+      "RANKING_LABEL": "ATP Singles Race"
+    },
+    {
+      "RANKING_ID": "fgMkMdTG",
+      "RANKING_LABEL": "WTA Singles Race"
+    },
+    {
+      "RANKING_ID": "rBfZNIb4",
+      "RANKING_LABEL": "ATP Doubles"
+    },
+    {
+      "RANKING_ID": "GYyb7hdF",
+      "RANKING_LABEL": "WTA Doubles"
+    },
+    {
+      "RANKING_ID": "xYgwNxEA",
+      "RANKING_LABEL": "ATP Doubles Race"
+    },
+    {
+      "RANKING_ID": "fPz26CBL",
+      "RANKING_LABEL": "WTA Doubles Race"
+    }
+  ]
+}

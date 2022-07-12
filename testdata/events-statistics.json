@@ -1,0 +1,275 @@
+{
+  "DATA": [
+    {
+      "STAGE_NAME": "Match",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "MAIN",
+          "ITEMS": [
+            {
+              "INCIDENT_NAME": "Ball Possession",
+              "VALUE_HOME": "58%",
+              "VALUE_AWAY": "42%"
+            },
+            {
+              "INCIDENT_NAME": "Goal Attempts",
+              "VALUE_HOME": "9",
+              "VALUE_AWAY": "12"
+            },
+            {
+              "INCIDENT_NAME": "Shots on Goal",
+              "VALUE_HOME": "2",
+              "VALUE_AWAY": "7"
+            },
+            {
+              "INCIDENT_NAME": "Shots off Goal",
+              "VALUE_HOME": "4",
+              "VALUE_AWAY": "3"
+            },
+            {
+              "INCIDENT_NAME": "Blocked Shots",
+              "VALUE_HOME": "3",
+              "VALUE_AWAY": "2"
+            },
+            {
+              "INCIDENT_NAME": "Free Kicks",
+              "VALUE_HOME": "7",
+              "VALUE_AWAY": "13"
+            },
+            {
+              "INCIDENT_NAME": "Corner Kicks",
+              "VALUE_HOME": "9",
+              "VALUE_AWAY": "5"
+            },
+            {
+              "INCIDENT_NAME": "Offsides",
+              "VALUE_HOME": "2",
+              "VALUE_AWAY": "0"
+            },
+            {
+              "INCIDENT_NAME": "Throw-in",
+              "VALUE_HOME": "21",
+              "VALUE_AWAY": "16"
+            },
+            {
+              "INCIDENT_NAME": "Goalkeeper Saves",
+              "VALUE_HOME": "4",
+              "VALUE_AWAY": "2"
+            },
+            {
+              "INCIDENT_NAME": "Fouls",
+              "VALUE_HOME": "12",
+              "VALUE_AWAY": "11"
+            },
+            {
+              "INCIDENT_NAME": "Yellow Cards",
+              "VALUE_HOME": "0",
+              "VALUE_AWAY": "2"
+            },
+            {
+              "INCIDENT_NAME": "Total Passes",
+              "VALUE_HOME": "570",
+              "VALUE_AWAY": "398"
+            },
+            {
+              "INCIDENT_NAME": "Completed Passes",
+              "VALUE_HOME": "477",
+              "VALUE_AWAY": "320"
+            },
+            {
+              "INCIDENT_NAME": "Attacks",
+              "VALUE_HOME": "158",
+              "VALUE_AWAY": "75"
+            },
+            {
+              "INCIDENT_NAME": "Dangerous Attacks",
+              "VALUE_HOME": "57",
+              "VALUE_AWAY": "29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "STAGE_NAME": "1st Half",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "MAIN",
+          "ITEMS": [
+            {
+              "INCIDENT_NAME": "Ball Possession",
+              "VALUE_HOME": "51%",
+              "VALUE_AWAY": "49%"
+            },
+            {
+              "INCIDENT_NAME": "Goal Attempts",
+              "VALUE_HOME": "5",
+              "VALUE_AWAY": "8"
+            },
+            {
+              "INCIDENT_NAME": "Shots on Goal",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "4"
+            },
+            {
+              "INCIDENT_NAME": "Shots off Goal",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "2"
+            },
+            {
+              "INCIDENT_NAME": "Blocked Shots",
+              "VALUE_HOME": "3",
+              "VALUE_AWAY": "2"
+            },
+            {
+              "INCIDENT_NAME": "Free Kicks",
+              "VALUE_HOME": "2",
+              "VALUE_AWAY": "7"
+            },
+            {
+              "INCIDENT_NAME": "Corner Kicks",
+              "VALUE_HOME": "7",
+              "VALUE_AWAY": "4"
+            },
+            {
+              "INCIDENT_NAME": "Offsides",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "0"
+            },
+            {
+              "INCIDENT_NAME": "Throw-in",
+              "VALUE_HOME": "9",
+              "VALUE_AWAY": "5"
+            },
+            {
+              "INCIDENT_NAME": "Goalkeeper Saves",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Fouls",
+              "VALUE_HOME": "6",
+              "VALUE_AWAY": "4"
+            },
+            {
+              "INCIDENT_NAME": "Yellow Cards",
+              "VALUE_HOME": "0",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Total Passes",
+              "VALUE_HOME": "246",
+              "VALUE_AWAY": "222"
+            },
+            {
+              "INCIDENT_NAME": "Completed Passes",
+              "VALUE_HOME": "201",
+              "VALUE_AWAY": "192"
+            },
+            {
+              "INCIDENT_NAME": "Attacks",
+              "VALUE_HOME": "53",
+              "VALUE_AWAY": "41"
+            },
+            {
+              "INCIDENT_NAME": "Dangerous Attacks",
+              "VALUE_HOME": "29",
+              "VALUE_AWAY": "23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "STAGE_NAME": "2nd Half",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "MAIN",
+          "ITEMS": [
+            {
+              "INCIDENT_NAME": "Ball Possession",
+              "VALUE_HOME": "65%",
+              "VALUE_AWAY": "35%"
+            },
+            {
+              "INCIDENT_NAME": "Goal Attempts",
+              "VALUE_HOME": "4",
+              "VALUE_AWAY": "4"
+            },
+            {
+              "INCIDENT_NAME": "Shots on Goal",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "3"
+            },
+            {
+              "INCIDENT_NAME": "Shots off Goal",
+              "VALUE_HOME": "3",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Blocked Shots",
+              "VALUE_HOME": "0",
+              "VALUE_AWAY": "0"
+            },
+            {
+              "INCIDENT_NAME": "Free Kicks",
+              "VALUE_HOME": "5",
+              "VALUE_AWAY": "6"
+            },
+            {
+              "INCIDENT_NAME": "Corner Kicks",
+              "VALUE_HOME": "2",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Offsides",
+              "VALUE_HOME": "1",
+              "VALUE_AWAY": "0"
+            },
+            {
+              "INCIDENT_NAME": "Throw-in",
+              "VALUE_HOME": "12",
+              "VALUE_AWAY": "11"
+            },
+            {
+              "INCIDENT_NAME": "Goalkeeper Saves",
+              "VALUE_HOME": "3",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Fouls",
+              "VALUE_HOME": "6",
+              "VALUE_AWAY": "7"
+            },
+            {
+              "INCIDENT_NAME": "Yellow Cards",
+              "VALUE_HOME": "0",
+              "VALUE_AWAY": "1"
+            },
+            {
+              "INCIDENT_NAME": "Total Passes",
+              "VALUE_HOME": "324",
+              "VALUE_AWAY": "176"
+            },
+            {
+              "INCIDENT_NAME": "Completed Passes",
+              "VALUE_HOME": "276",
+              "VALUE_AWAY": "128"
+            },
+            {
+              "INCIDENT_NAME": "Attacks",
+              "VALUE_HOME": "105",
+              "VALUE_AWAY": "34"
+            },
+            {
+              "INCIDENT_NAME": "Dangerous Attacks",
+              "VALUE_HOME": "28",
+              "VALUE_AWAY": "6"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "LAST_CHANGE_KEY": null
+}

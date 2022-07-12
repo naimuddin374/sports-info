@@ -1,0 +1,20 @@
+{
+  "external_id": "8bP2bXmH",
+  "id": "8bP2bXmH",
+  "data": {
+    "LEAGUE_NAME": "Africa Cup of Nations",
+    "COUNTRY_NAME": "Africa",
+    "COUNTRY_ID": 1,
+    "ACTUAL_TOURNAMENT_SEASON_ID": "6Jzuq5IH",
+    "TE": "8bP2bXmH",
+    "SEASON_ID": 175,
+    "TEMPLATE_ID": "1_8bP2bXmH",
+    "STAGES": [
+      {
+        "STAGE_ID": "S6fdeGdi",
+        "STAGE_NAME": "Qualification - Preliminary",
+        "OUT": "2"
+      }
+    ]
+  }
+}

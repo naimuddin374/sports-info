@@ -1,0 +1,31 @@
+{
+  "external_id": "Wtn9Stg0",
+  "id": "Wtn9Stg0",
+  "data": {
+    "ID": "Wtn9Stg0",
+    "LAYOUT": "RESULTS_FIXTURES",
+    "SHORT_NAME": "Manchester City",
+    "GENDER_ID": 1,
+    "COUNTRY_ID": 198,
+    "COUNTRY_NAME": "England",
+    "IMAGE_PATH": "https://www.flashscore.com/res/image/data/UXcqj7HG-zZRehMhm.png",
+    "IMM": "Wtn9Stg0",
+    "IMW": "100",
+    "IMP": "UXcqj7HG-zZRehMhm.png",
+    "IME": "",
+    "IMAGE_TABLE_PATH": "https://www.flashscore.com/res/image/data/d6K2wUXA-zZRehMhm.png",
+    "NAME": "Manchester City",
+    "TYPE_ID": 1,
+    "TYPE_NAME": "team",
+    "TAB": "N",
+    "PARENT_NAME": "Manchester City FC",
+    "ACTUAL_TOURNAMENT_TYPE": "table",
+    "ACTUAL_TOURNAMENT_STAGE_ID": "6kJqdMr2",
+    "ACTUAL_TOURNAMENT_SEASON_ID": "tdkpynmB",
+    "TEAM_ID": "QNyy8cb9",
+    "TEAM_PARTICIPANT_TYPE": 1,
+    "TEAM_IMAGE": null,
+    "TEAM_NAME": "Manchester City FC",
+    "SPORT_ID": 1
+  }
+}

@@ -1,0 +1,804 @@
+{
+  "DATA": [
+    {
+      "END_MATCH": ""
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "That's the end because the winner of this match has been decided following the penalty shootout.",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/9200ee5d2292b4f1cdf71285b02cea7eo2.jpg"
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "penalty-missed",
+      "COMMENT_TEXT": "Bukayo Saka (England) has a great chance to score from the penalty. He shoots to the right post, but Gianluigi Donnarumma leaps out to thwart his attempt.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "penalty-missed",
+      "COMMENT_TEXT": "Jorginho (Italy) wastes a penalty kick! Jordan Pickford makes a brilliant save and deflects the ball away from the bottom left corner and onto the post.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "penalty-missed",
+      "COMMENT_TEXT": "Jadon Sancho (England) blows a huge chance to score! He sends the penalty to the right side of the goal, but it's not enough to beat Gianluigi Donnarumma who easily stops the effort.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Goal! Federico Bernardeschi (Italy) puts the penalty low into the middle of the goal and past Jordan Pickford.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/751825f1f86f03e0f846eb2480b427cfo2.jpg"
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "penalty-missed",
+      "COMMENT_TEXT": "Marcus Rashford (England) fails to convert the penalty kick! His effort hits the left post.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Goal! Leonardo Bonucci (Italy) wins the battle of wills and sends an unstoppable penalty past Jordan Pickford into left side of the goal.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Goal! Harry Maguire (England) calmly steps up and smashes the ball in the top right corner.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "penalty-missed",
+      "COMMENT_TEXT": "Andrea Belotti (Italy) sends the penalty to the bottom right corner, but Jordan Pickford pulls off a wonderful save to deny him.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Harry Kane (England) smoothly converts the penalty with a beautiful low drive into the left side of the net.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "GOAL! That’s a great strike from the spot by Domenico Berardi (Italy) low into the left of the net, giving goalkeeper Jordan Pickford no chance!",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "121'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The penalty shootout is about to start, so this is the moment of truth to see which players can hold their nerve.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "120+4'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The referee blows for the end of the second period of extra-time.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "120+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Bernardeschi (Italy) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball has crossed the sideline. Italy are taking a throw-in."
+    },
+    {
+      "COMMENT_TIME": "120+1'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "The referee awards a corner and Federico Bernardeschi (Italy) goes over to take it."
+    },
+    {
+      "COMMENT_TIME": "120'",
+      "COMMENT_CLASS": "time",
+      "COMMENT_TEXT": "3 additional min. will be played."
+    },
+    {
+      "COMMENT_TIME": "120'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "The referee signals that it is time for a substitution and Jadon Sancho (England) is coming onto the pitch as Kyle Walker cannot continue after picking up an injury.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "120'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Gareth Southgate has decided to make a change. Marcus Rashford (England) replaces Jordan Henderson.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "118'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Here comes a substitution. Alessandro Florenzi (Italy) is brought on as a substitute for Emerson.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "116'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jack Grealish (England) seems to be alright and is okay to carry on."
+    },
+    {
+      "COMMENT_TIME": "116'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) is able to continue to play."
+    },
+    {
+      "COMMENT_TIME": "115'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kalvin Phillips (England) whips a long ball in from the free kick which is intercepted by Gianluigi Donnarumma."
+    },
+    {
+      "COMMENT_TIME": "114'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "Tempers flare after Jorginho (Italy) commits a foul. He receives a yellow card for his bad challenge and surely must be relieved at not receiving a red card.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "114'",
+      "COMMENT_CLASS": "injury",
+      "COMMENT_TEXT": "Jorginho (Italy) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch."
+    },
+    {
+      "COMMENT_TIME": "113'",
+      "COMMENT_CLASS": "injury",
+      "COMMENT_TEXT": "Jack Grealish (England) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered."
+    },
+    {
+      "COMMENT_TIME": "113'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) jumps into a tackle and Bjorn Kuipers blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "112'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The England players are exchanging short passes in an attempt to create a shooting opportunity."
+    },
+    {
+      "COMMENT_TIME": "109'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Andrea Belotti (Italy) times his run too early and the linesman raises his flag for offside."
+    },
+    {
+      "COMMENT_TIME": "108'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jack Grealish (England) reacts well to latch onto a rebound inside the box, but his shot is well blocked."
+    },
+    {
+      "COMMENT_TIME": "107'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Bernardeschi (Italy) powerfully strikes the ball from the free kick, but it's straight at the goalkeeper who easily saves."
+    },
+    {
+      "COMMENT_TIME": "106'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "Harry Maguire (England) has tested the patience of referee Bjorn Kuipers and goes into the book for a previous late challenge.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "106'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "Bjorn Kuipers has blown his whistle to start the second period of extra time.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "105+3'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The first period of extra-time has ended, but the drama in this match is not yet finished.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "105+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Bjorn Kuipers blows his whistle and it's Harry Kane (England) who is penalised for an offensive foul. Good decision by the referee."
+    },
+    {
+      "COMMENT_TIME": "105+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Handball by Manuel Locatelli (Italy)."
+    },
+    {
+      "COMMENT_TIME": "105+1'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Giovanni Di Lorenzo (Italy) makes a bad challenge and the referee blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "105+1'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "One of the defenders reacts at the last minute to brilliantly block a pass from Manuel Locatelli (Italy)."
+    },
+    {
+      "COMMENT_TIME": "105'",
+      "COMMENT_CLASS": "time",
+      "COMMENT_TEXT": "We will have 1 min. of added time."
+    },
+    {
+      "COMMENT_TIME": "105'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Bjorn Kuipers blows his whistle. Harry Kane (England) commits a foul after dangerous play."
+    },
+    {
+      "COMMENT_TIME": "103'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "A pass from Emerson (Italy) is intercepted by Jordan Pickford and the move breaks down.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "101'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Flag up against Andrea Belotti (Italy). He had space to move into behind the defence, but he went too soon."
+    },
+    {
+      "COMMENT_TIME": "100'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Luke Shaw (England) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence."
+    },
+    {
+      "COMMENT_TIME": "99'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Gareth Southgate prepares a substitution. Mason Mount is replaced by Jack Grealish (England).",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "99'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Andrea Belotti (Italy) shoots from outside the box, but his effort is blocked."
+    },
+    {
+      "COMMENT_TIME": "98'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Giovanni Di Lorenzo (Italy) wastes a good opportunity as his pass into the box is blocked by the defence."
+    },
+    {
+      "COMMENT_TIME": "97'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kalvin Phillips (England) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball goes out of play and Italy will have a goal kick."
+    },
+    {
+      "COMMENT_TIME": "97'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Luke Shaw (England) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear."
+    },
+    {
+      "COMMENT_TIME": "96'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Substitution. Marco Verratti walks off the pitch and Manuel Locatelli (Italy) comes on as a substitute.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "96'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Raheem Sterling (England) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Now England have a corner."
+    },
+    {
+      "COMMENT_TIME": "94'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Raheem Sterling (England) should know this behaviour is beyond the rules. He was too careless with his challenge and left Bjorn Kuipers no option but to blow his whistle."
+    },
+    {
+      "COMMENT_TIME": "93'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Domenico Berardi (Italy) commits a rough challenge and Bjorn Kuipers blows his whistle for an infringement."
+    },
+    {
+      "COMMENT_TIME": "92'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Bernardeschi (Italy) is caught offside!"
+    },
+    {
+      "COMMENT_TIME": "91'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Lorenzo Insigne comes off the pitch to be replaced by Andrea Belotti (Italy).",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "91'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "Referee Bjorn Kuipers has started the first period of extra time.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "90+7'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The second half has finished, but the result of this match is still yet to be decided.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "90+6'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "Giorgio Chiellini (Italy) makes an awful challenge on his opponent and can count himself very lucky that the referee didn't issue a red card.",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/34751f6d2039e677464dbb72b9c5f9e1o2.jpg"
+    },
+    {
+      "COMMENT_TIME": "90+5'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Italy keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break."
+    },
+    {
+      "COMMENT_TIME": "90+3'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "A cross by Bryan Cristante (Italy) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor."
+    },
+    {
+      "COMMENT_TIME": "90+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Bjorn Kuipers blows for a foul after Jordan Henderson (England) was too aggressive in the battle for the ball."
+    },
+    {
+      "COMMENT_TIME": "90+1'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) commits an ugly challenge. The referee sees it and immediately blows his whistle."
+    },
+    {
+      "COMMENT_TIME": "90'",
+      "COMMENT_CLASS": "time",
+      "COMMENT_TEXT": "The fourth official shows 6 min. of added time."
+    },
+    {
+      "COMMENT_TIME": "89'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Raheem Sterling (England) skips past his man but can't keep the ball in play. The ball is off of the pitch and it's a goal kick for Italy."
+    },
+    {
+      "COMMENT_TIME": "87'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The game is interrupted due to a pitch invader!"
+    },
+    {
+      "COMMENT_TIME": "86'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Federico Chiesa is being substituted because of an injury. Roberto Mancini sends Federico Bernardeschi (Italy) on the pitch.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "84'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) is booked after bringing down an opponent. Bjorn Kuipers had an easy-decision to make.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "83'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) seems to have picked up a minor injury, but it looks like he will be able to continue playing."
+    },
+    {
+      "COMMENT_TIME": "80'",
+      "COMMENT_CLASS": "injury",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) is down injured and the referee stops play so that he can receive medical treatment."
+    },
+    {
+      "COMMENT_TIME": "80'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Rough tackle by Bryan Cristante (Italy). The referee blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "80'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) races towards goal but the defender gets back well to make a challenge."
+    },
+    {
+      "COMMENT_TIME": "79'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Marco Verratti (Italy) makes a rough challenge and the referee blows for a foul."
+    },
+    {
+      "COMMENT_TIME": "78'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) tackles a bit over-zealously and Bjorn Kuipers blows for a foul."
+    },
+    {
+      "COMMENT_TIME": "77'",
+      "COMMENT_CLASS": "funfact",
+      "COMMENT_TEXT": "The ball possession is 64:36."
+    },
+    {
+      "COMMENT_TIME": "75'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) looks to break free, but an opposing player clears the ball away."
+    },
+    {
+      "COMMENT_TIME": "74'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Here is a change. Declan Rice is going off and Gareth Southgate gives the last tactical orders to Jordan Henderson (England).",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "73'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Domenico Berardi (Italy) beats the defender to the lofted pass inside the box, but can't control his shot and it flashes high over the bar. The ball goes out of play and England will have a goal kick."
+    },
+    {
+      "COMMENT_TIME": "73'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Some great controlled play and passing from Italy. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break."
+    },
+    {
+      "COMMENT_TIME": "70'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "The referee signals that it is time for a substitution and Bukayo Saka (England) comes onto the pitch so that Kieran Trippier can be given a rest.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "67'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Goal! 1:1. The ball rebounds to Leonardo Bonucci (Italy) after a melee in the box, and he easily beats the keeper from close range.",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/65e2cc1656cf2c361128ec40b93340bdo2.jpg"
+    },
+    {
+      "COMMENT_TIME": "67'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Marco Verratti (Italy) rises high to meet a perfectly taken corner kick deep into the box. He steers a header towards the bottom left corner, but the goalkeeper pulls off an amazing save to push the ball onto the post.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "67'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Domenico Berardi (Italy) is heading toward the corner flag to take the set piece."
+    },
+    {
+      "COMMENT_TIME": "66'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Italy force a corner. Their opponents will face another attacking threat."
+    },
+    {
+      "COMMENT_TIME": "64'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Kieran Trippier (England) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence."
+    },
+    {
+      "COMMENT_TIME": "64'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "John Stones (England) jumps for a header from the resulting corner kick and sends the ball in on goal, but the goalkeeper makes a very good save. The linesman makes the right call and England will have a corner."
+    },
+    {
+      "COMMENT_TIME": "63'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Kieran Trippier (England) goes over to take a corner kick after one of the defenders makes a good clearance."
+    },
+    {
+      "COMMENT_TIME": "62'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) goes on a mazy run through the defence and gets within shooting range inside the box, but his effort to the bottom right corner is thwarted by Jordan Pickford.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "60'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The ball spins up and hits the hand of Emerson (Italy) after he fails to control it and the referee blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "57'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The goalkeeper pulls off a remarkable reflex save to deny a rebound from Lorenzo Insigne (Italy)! That was a huge opportunity!"
+    },
+    {
+      "COMMENT_TIME": "57'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) has a shot blocked from inside the box."
+    },
+    {
+      "COMMENT_TIME": "56'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Harry Maguire (England) finds himself some space to meet a beautiful cross from the free kick, and from near the penalty spot he attempts to score with a header. His effort lacks accuracy and floats high over the bar. The ball is off of the pitch and it's a goal kick for Italy."
+    },
+    {
+      "COMMENT_TIME": "55'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "Bjorn Kuipers shows a yellow card to Leonardo Bonucci (Italy) for his blatant foul.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "54'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Roberto Mancini decides to make a substitution. Ciro Immobile will be replaced by Domenico Berardi (Italy).",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "54'",
+      "COMMENT_CLASS": "substitution",
+      "COMMENT_TEXT": "Substitution. Bryan Cristante (Italy) in, Nicolo Barella out.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "53'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) has to stretch for the ball in the box and sends it well wide of the right post. The ball is off of the pitch and it's a goal kick for England."
+    },
+    {
+      "COMMENT_TIME": "52'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) delivers a promising cross into the box, but it's cleared."
+    },
+    {
+      "COMMENT_TIME": "51'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) takes a shot from the free kick on the edge of the box and the ball sails inches wide of the right post. What a chance! The ball is off of the pitch and it's a goal kick for England.",
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/6bd13d8b2919cab707d167a349477836o2.jpg"
+    },
+    {
+      "COMMENT_TIME": "50'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Raheem Sterling (England) escapes without any punishment from the referee after using excessive force to foul his opponent. Italy are awarded a free kick from a dangerous position."
+    },
+    {
+      "COMMENT_TIME": "47'",
+      "COMMENT_CLASS": "y-card",
+      "COMMENT_TEXT": "This yellow card was deserved. The tackle by Nicolo Barella (Italy) was quite harsh and Bjorn Kuipers didn't hesitate to show him a yellow card.",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/6641a597125efc8536df618acae14753o2.jpg"
+    },
+    {
+      "COMMENT_TIME": "47'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Giovanni Di Lorenzo (Italy) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball is out of play. Italy will have a throw-in."
+    },
+    {
+      "COMMENT_TIME": "46'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The players are back out on the pitch following the half-time break and the second half is about to start.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "45+5'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "There will be nothing more to see in the first half. The whistle blowing of Bjorn Kuipers has ended it.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "45+4'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "A pass out of defence finds Leonardo Bonucci (Italy) in space, he doesn't think twice and releases a shot from long range which flies well wide of the left post. The ball is off of the pitch and it's a goal kick for England."
+    },
+    {
+      "COMMENT_TIME": "45+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The ball rebounds outside of the penalty area and falls to the feet of Marco Verratti (Italy), who directs his low shot to the middle of the goal, but the keeper is there to block the effort."
+    },
+    {
+      "COMMENT_TIME": "45+2'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Ciro Immobile (Italy) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "45'",
+      "COMMENT_CLASS": "time",
+      "COMMENT_TEXT": "There will be a minimum of 4 min. of added time."
+    },
+    {
+      "COMMENT_TIME": "43'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Emerson (Italy) fails to send a pass into the box as his effort is cut out. The linesman signals a throw-in for Italy."
+    },
+    {
+      "COMMENT_TIME": "42'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Marco Verratti (Italy) sends over a free kick from long range but the defence is alert."
+    },
+    {
+      "COMMENT_TIME": "41'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Mason Mount (England) gives away a foul for a clumsy challenge. Referee Bjorn Kuipers saw the whole situation."
+    },
+    {
+      "COMMENT_TIME": "40'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Emerson (Italy) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety."
+    },
+    {
+      "COMMENT_TIME": "39'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The linesman signals that Ciro Immobile (Italy) is offside and the referee confirms the decision."
+    },
+    {
+      "COMMENT_TIME": "38'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Emerson (Italy) brings an opponent down and Bjorn Kuipers interrupts the game."
+    },
+    {
+      "COMMENT_TIME": "36'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Luke Shaw (England) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net. The ball is out of play. England will take a throw-in."
+    },
+    {
+      "COMMENT_TIME": "35'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) evades challenges and shoots from the edge of the box. It's a good effort, but flies just wide of the right post. The ball is off of the pitch and it's a goal kick for England.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "33'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Italy are showcasing great team work and neat passing moves."
+    },
+    {
+      "COMMENT_TIME": "30'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Giovanni Di Lorenzo (Italy) makes an overly-aggressive challenge and Bjorn Kuipers blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "28'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies miles wide of the left post. The ball goes out of play and England will have a goal kick."
+    },
+    {
+      "COMMENT_TIME": "27'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kieran Trippier (England) is flagged for offside."
+    },
+    {
+      "COMMENT_TIME": "25'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) fails to find any of his teammates inside the box as his pass is blocked."
+    },
+    {
+      "COMMENT_TIME": "25'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) has picked up a minor injury, but it looks like he will be able to continue."
+    },
+    {
+      "COMMENT_TIME": "24'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Federico Chiesa (Italy) sends a pass into the box, but his attempt is thwarted and cleared."
+    },
+    {
+      "COMMENT_TIME": "22'",
+      "COMMENT_CLASS": "injury",
+      "COMMENT_TEXT": "The game is interrupted now, Jorginho (Italy) picks up a knock and the physio has to come on.",
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/685485f2c72a3b87dc94eaff71660e89o2.jpg"
+    },
+    {
+      "COMMENT_TIME": "20'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Bjorn Kuipers has a clear sight and sees a foul from Giorgio Chiellini (Italy)."
+    },
+    {
+      "COMMENT_TIME": "17'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The linesman raises his flag. Emerson (Italy) is adjudged offside."
+    },
+    {
+      "COMMENT_TIME": "15'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Mason Mount (England) sends a teasing cross into the area, but Gianluigi Donnarumma intercepts the ball."
+    },
+    {
+      "COMMENT_TIME": "14'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Kieran Trippier (England) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear."
+    },
+    {
+      "COMMENT_TIME": "14'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The ball is cleared after Mason Mount (England) attempted to dribble past an opposing player. The referee and one of his assistants signal for a corner kick to England."
+    },
+    {
+      "COMMENT_TIME": "13'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Kieran Trippier (England) takes the corner kick, but Gianluigi Donnarumma reads it well and stops the effort."
+    },
+    {
+      "COMMENT_TIME": "13'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kieran Trippier (England) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. The linesman points to the corner flag, England are going to take it."
+    },
+    {
+      "COMMENT_TIME": "12'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Marco Verratti (Italy) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle."
+    },
+    {
+      "COMMENT_TIME": "11'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The referee blows his whistle as Kieran Trippier (England) was too aggressive in his challenge."
+    },
+    {
+      "COMMENT_TIME": "10'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kieran Trippier (England) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack."
+    },
+    {
+      "COMMENT_TIME": "9'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Giorgio Chiellini (Italy) commits a rough challenge and Bjorn Kuipers blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "8'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) strikes the ball from the resulting free kick from the edge of the box, but his effort goes high over the bar. The ball is off of the pitch and it's a goal kick for England."
+    },
+    {
+      "COMMENT_TIME": "7'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The game is interrupted. Luke Shaw (England) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did."
+    },
+    {
+      "COMMENT_TIME": "6'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Kalvin Phillips (England) makes a rough challenge and Bjorn Kuipers blows his whistle for a foul."
+    },
+    {
+      "COMMENT_TIME": "5'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Mason Mount (England) makes a reckless foul in order to win the ball from his opponent. Bjorn Kuipers has a clear sight of it and blows his whistle."
+    },
+    {
+      "COMMENT_TIME": "5'",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Jorginho (Italy) clearly handles the ball, but he is surprised when the referee blows his whistle."
+    },
+    {
+      "COMMENT_TIME": "2'",
+      "COMMENT_CLASS": "soccer-ball",
+      "COMMENT_TEXT": "Luke Shaw (England) meets a perfect cross from Kieran Trippier deep inside the box and controls it with a nice first touch. He produces an accurate strike into the back of the net via the left post. The score is 0:1.",
+      "COMMENT_IS_BOLD": "1",
+      "COMMENT_IS_IMPORTANT": 1,
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/e5661eaeaa175ca08aa3507680996090o2.jpg"
+    },
+    {
+      "COMMENT_TIME": "2'",
+      "COMMENT_CLASS": "corner",
+      "COMMENT_TEXT": "Lorenzo Insigne (Italy) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety."
+    },
+    {
+      "COMMENT_TIME": "1'",
+      "COMMENT_CLASS": "whistle",
+      "COMMENT_TEXT": "The first half of this match is about to start.",
+      "COMMENT_IS_IMPORTANT": 1
+    },
+    {
+      "COMMENT_TIME": "",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "The players are out at last! Italy will take the kick-off."
+    },
+    {
+      "COMMENT_TIME": "",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Bjorn Kuipers will referee today's match."
+    },
+    {
+      "COMMENT_TIME": "",
+      "COMMENT_CLASS": "lineup1",
+      "COMMENT_TEXT": "In the details of this match, you can glance at the lineups while the game is about to begin."
+    },
+    {
+      "COMMENT_TIME": "",
+      "COMMENT_CLASS": "",
+      "COMMENT_TEXT": "Hello to all football fans, we are here to bring you a live commentary of the following match, describing all the most interesting and important moments. We'll make sure you won't miss a thing, so just sit back and have fun.",
+      "HIGHLIGHT_IMAGE_RESOLUTION": "740",
+      "HIGHLIGHT_IMAGE_URL": "https://media-content.enetpulse.com/gallery/2021/7/11/e0f5a6968c843decd137a9e48140f97eo2.jpg"
+    },
+    {
+      "HIGHLIGHT_PROVIDER_NOTE": "Photos: AFP"
+    }
+  ],
+  "LAST_CHANGE_KEY": null
+}

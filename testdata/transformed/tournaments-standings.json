@@ -1,0 +1,352 @@
+{
+  "external_id": null,
+  "id": null,
+  "data": [
+    {
+      "GROUP_ID": 1,
+      "GROUP": "Main",
+      "ROWS": [
+        {
+          "RANKING": 1,
+          "TEAM_NAME": "Liverpool",
+          "TEAM_ID": "lId4TMwf",
+          "MATCHES_PLAYED": 14,
+          "WINS": 11,
+          "GOALS": "37:7",
+          "POINTS": 36,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "37:7",
+            "36"
+          ],
+          "PARTICIPANT_ID": 165,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 2,
+          "TEAM_NAME": "Manchester City",
+          "TEAM_ID": "Wtn9Stg0",
+          "MATCHES_PLAYED": 14,
+          "WINS": 11,
+          "GOALS": "40:10",
+          "POINTS": 34,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "40:10",
+            "34"
+          ],
+          "PARTICIPANT_ID": 770,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/UXcqj7HG-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 3,
+          "TEAM_NAME": "Arsenal",
+          "TEAM_ID": "hA1Zm19f",
+          "MATCHES_PLAYED": 15,
+          "WINS": 10,
+          "GOALS": "24:12",
+          "POINTS": 32,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "24:12",
+            "32"
+          ],
+          "PARTICIPANT_ID": 0,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 4,
+          "TEAM_NAME": "Tottenham",
+          "TEAM_ID": "UDg08Ohm",
+          "MATCHES_PLAYED": 14,
+          "WINS": 9,
+          "GOALS": "26:16",
+          "POINTS": 28,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "26:16",
+            "28"
+          ],
+          "PARTICIPANT_ID": 935,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/ARC62UAr-8dqXppkD.png"
+        },
+        {
+          "RANKING": 5,
+          "TEAM_NAME": "West Ham",
+          "TEAM_ID": "Cxq57r8g",
+          "MATCHES_PLAYED": 15,
+          "WINS": 8,
+          "GOALS": "27:20",
+          "POINTS": 27,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "27:20",
+            "27"
+          ],
+          "PARTICIPANT_ID": 990,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/Qo3RdMjl-EJoO9TRD.png"
+        },
+        {
+          "RANKING": 6,
+          "TEAM_NAME": "Manchester Utd",
+          "TEAM_ID": "ppjDR086",
+          "MATCHES_PLAYED": 15,
+          "WINS": 8,
+          "GOALS": "24:18",
+          "POINTS": 27,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "24:18",
+            "27"
+          ],
+          "PARTICIPANT_ID": 220,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/nwSRlyWg-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 7,
+          "TEAM_NAME": "Chelsea",
+          "TEAM_ID": "4fGZN2oK",
+          "MATCHES_PLAYED": 13,
+          "WINS": 7,
+          "GOALS": "28:10",
+          "POINTS": 26,
+          "DYNAMIC_COLUMNS_DATA": [
+            "13",
+            "28:10",
+            "26"
+          ],
+          "PARTICIPANT_ID": 110,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 8,
+          "TEAM_NAME": "Leicester",
+          "TEAM_ID": "KrrdAMyI",
+          "MATCHES_PLAYED": 14,
+          "WINS": 7,
+          "GOALS": "24:19",
+          "POINTS": 24,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "24:19",
+            "24"
+          ],
+          "PARTICIPANT_ID": 495,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/Em1CYqYg-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 9,
+          "TEAM_NAME": "Southampton",
+          "TEAM_ID": "WdKOwxDM",
+          "MATCHES_PLAYED": 15,
+          "WINS": 5,
+          "GOALS": "20:14",
+          "POINTS": 22,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "20:14",
+            "22"
+          ],
+          "PARTICIPANT_ID": 550,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/fmA9gnyB-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 10,
+          "TEAM_NAME": "Wolves",
+          "TEAM_ID": "j3Azpf5d",
+          "MATCHES_PLAYED": 15,
+          "WINS": 6,
+          "GOALS": "16:15",
+          "POINTS": 20,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "16:15",
+            "20"
+          ],
+          "PARTICIPANT_ID": 825,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/Iwsrq5xS-fguToQZ6.png"
+        },
+        {
+          "RANKING": 11,
+          "TEAM_NAME": "Crystal Palace",
+          "TEAM_ID": "AovF1Mia",
+          "MATCHES_PLAYED": 15,
+          "WINS": 4,
+          "GOALS": "22:17",
+          "POINTS": 19,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "22:17",
+            "19"
+          ],
+          "PARTICIPANT_ID": 660,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/AFNlsDzS-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 12,
+          "TEAM_NAME": "Everton",
+          "TEAM_ID": "KluSTr9s",
+          "MATCHES_PLAYED": 14,
+          "WINS": 6,
+          "GOALS": "19:19",
+          "POINTS": 19,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "19:19",
+            "19"
+          ],
+          "PARTICIPANT_ID": 715,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/EwJqZUZA-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 13,
+          "TEAM_NAME": "Aston Villa",
+          "TEAM_ID": "W00wmLO0",
+          "MATCHES_PLAYED": 14,
+          "WINS": 5,
+          "GOALS": "24:21",
+          "POINTS": 18,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "24:21",
+            "18"
+          ],
+          "PARTICIPANT_ID": 55,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/QsnteKXg-8dqXppkD.png"
+        },
+        {
+          "RANKING": 14,
+          "TEAM_NAME": "Newcastle",
+          "TEAM_ID": "p6ahwuwJ",
+          "MATCHES_PLAYED": 14,
+          "WINS": 4,
+          "GOALS": "20:25",
+          "POINTS": 18,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "20:25",
+            "18"
+          ],
+          "PARTICIPANT_ID": 275,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/fojwJwZA-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 15,
+          "TEAM_NAME": "Brentford",
+          "TEAM_ID": "xYe7DwID",
+          "MATCHES_PLAYED": 15,
+          "WINS": 5,
+          "GOALS": "16:19",
+          "POINTS": 17,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "16:19",
+            "17"
+          ],
+          "PARTICIPANT_ID": 385,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/bBj3NWfM-fguToQZ6.png"
+        },
+        {
+          "RANKING": 16,
+          "TEAM_NAME": "Leeds",
+          "TEAM_ID": "tUxUbLR2",
+          "MATCHES_PLAYED": 15,
+          "WINS": 4,
+          "GOALS": "17:29",
+          "POINTS": 16,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "17:29",
+            "16"
+          ],
+          "PARTICIPANT_ID": 880,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/rsvCPOh5-EJoO9TRD.png"
+        },
+        {
+          "RANKING": 17,
+          "TEAM_NAME": "Brighton",
+          "TEAM_ID": "2XrRecc3",
+          "MATCHES_PLAYED": 15,
+          "WINS": 3,
+          "GOALS": "10:20",
+          "POINTS": 14,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "10:20",
+            "14"
+          ],
+          "PARTICIPANT_ID": 440,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/40juIezB-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 18,
+          "TEAM_NAME": "Burnley",
+          "TEAM_ID": "z3dmTMMO",
+          "MATCHES_PLAYED": 13,
+          "WINS": 2,
+          "GOALS": "10:16",
+          "POINTS": 12,
+          "DYNAMIC_COLUMNS_DATA": [
+            "13",
+            "10:16",
+            "12"
+          ],
+          "PARTICIPANT_ID": 1045,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/lAaUWxe5-EJoO9TRD.png"
+        },
+        {
+          "RANKING": 19,
+          "TEAM_NAME": "Norwich",
+          "TEAM_ID": "Qo6off6p",
+          "MATCHES_PLAYED": 15,
+          "WINS": 2,
+          "GOALS": "10:31",
+          "POINTS": 9,
+          "DYNAMIC_COLUMNS_DATA": [
+            "15",
+            "10:31",
+            "9"
+          ],
+          "PARTICIPANT_ID": 330,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+        },
+        {
+          "RANKING": 20,
+          "TEAM_NAME": "Watford",
+          "TEAM_ID": "UmMRoGzp",
+          "MATCHES_PLAYED": 14,
+          "WINS": 2,
+          "GOALS": "14:34",
+          "POINTS": 7,
+          "DYNAMIC_COLUMNS_DATA": [
+            "14",
+            "14:34",
+            "7"
+          ],
+          "PARTICIPANT_ID": 605,
+          "DYNAMIC_COLUMNS_DATA_LIVE": "",
+          "TEAM_IMAGE_PATH": "https://www.flashscore.com/res/image/data/C2N3btil-0WuPn6K0.png"
+        }
+      ]
+    }
+  ]
+}

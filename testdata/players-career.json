@@ -1,0 +1,1488 @@
+{
+  "DATA": [
+    {
+      "TAB_ID": "1",
+      "TAB_LABEL": "League",
+      "TAB_TYPE": "1",
+      "ROWS": [
+        {
+          "SEASON_LABEL": "21/22",
+          "TEAM_ID": "CjhkPw0k",
+          "TEAM_NAME": "Paris SG",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/EskJufg5-lIDJVsTo.png",
+          "TOURNAMENT_NAME": "Ligue 1",
+          "TOURNAMENT_FLAG_ID": "77",
+          "TOURNAMENT_STAGE_ID": "0W4LIGb1",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "18",
+            "8": "10"
+          }
+        },
+        {
+          "SEASON_LABEL": "20/21",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "LaLiga",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "I58n6IRP",
+          "STATS": {
+            "1": "30",
+            "2": "4",
+            "3": "0",
+            "4": "35",
+            "8": "9"
+          }
+        },
+        {
+          "SEASON_LABEL": "19/20",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "LaLiga",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "MNGIgau5",
+          "STATS": {
+            "1": "25",
+            "2": "4",
+            "3": "0",
+            "4": "33",
+            "8": "21"
+          }
+        },
+        {
+          "SEASON_LABEL": "18/19",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "LaLiga",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "IVm2O3QA",
+          "STATS": {
+            "1": "36",
+            "2": "3",
+            "3": "0",
+            "4": "34",
+            "8": "13"
+          }
+        },
+        {
+          "SEASON_LABEL": "17/18",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "LaLiga",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "8COD1Gpp",
+          "STATS": {
+            "1": "34",
+            "2": "3",
+            "3": "0",
+            "4": "36",
+            "8": "12"
+          }
+        },
+        {
+          "SEASON_LABEL": "16/17",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "LaLiga",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "rH7SFawI",
+          "STATS": {
+            "1": "37",
+            "2": "6",
+            "3": "0",
+            "4": "34",
+            "8": "9"
+          }
+        },
+        {
+          "SEASON_LABEL": "15/16",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "IclHToOB",
+          "STATS": {
+            "1": "26",
+            "2": "3",
+            "3": "0",
+            "4": "33",
+            "8": "16"
+          }
+        },
+        {
+          "SEASON_LABEL": "14/15",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "EuKuM5MI",
+          "STATS": {
+            "1": "43",
+            "2": "4",
+            "3": "0",
+            "4": "38",
+            "8": "18"
+          }
+        },
+        {
+          "SEASON_LABEL": "13/14",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "0M9LMq9C",
+          "STATS": {
+            "1": "28",
+            "2": "2",
+            "3": "0",
+            "4": "31",
+            "8": "11"
+          }
+        },
+        {
+          "SEASON_LABEL": "12/13",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "lCDqolol",
+          "STATS": {
+            "1": "46",
+            "2": "1",
+            "3": "0",
+            "4": "32",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "11/12",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "2ar1uWVA",
+          "STATS": {
+            "1": "50",
+            "2": "6",
+            "3": "0",
+            "4": "37",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "10/11",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "E5ntFgfd",
+          "STATS": {
+            "1": "31",
+            "2": "3",
+            "3": "0",
+            "4": "33",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "09/10",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "U5sTpd2G",
+          "STATS": {
+            "1": "34",
+            "2": "3",
+            "3": "0",
+            "4": "35",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "08/09",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "8zXiYymA",
+          "STATS": {
+            "1": "23",
+            "2": "2",
+            "3": "0",
+            "4": "31",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "07/08",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "EwSVp76n",
+          "STATS": {
+            "1": "10",
+            "2": "2",
+            "3": "0",
+            "4": "28",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "06/07",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "hUQZqRLh",
+          "STATS": {
+            "1": "14",
+            "2": "2",
+            "3": "0",
+            "4": "26",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "05/06",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "l0G0poya",
+          "STATS": {
+            "1": "6",
+            "2": "2",
+            "3": "0",
+            "4": "17",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "04/05",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Primera Division",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "W8wDq5j5",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "7",
+            "8": "-"
+          }
+        }
+      ]
+    },
+    {
+      "TAB_ID": "2",
+      "TAB_LABEL": "Domestic Cups",
+      "TAB_TYPE": "1",
+      "ROWS": [
+        {
+          "SEASON_LABEL": "21/22",
+          "TEAM_ID": "CjhkPw0k",
+          "TEAM_NAME": "Paris SG",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/EskJufg5-lIDJVsTo.png",
+          "TOURNAMENT_NAME": "Coupe de France",
+          "TOURNAMENT_FLAG_ID": "77",
+          "TOURNAMENT_STAGE_ID": "pWyzaNgR",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2021",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "zBhH3rOF",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "1",
+            "4": "1",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "20/21",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "4xght11d",
+          "STATS": {
+            "1": "3",
+            "2": "2",
+            "3": "0",
+            "4": "5",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "2020",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "xxQOcgrn",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "19/20",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "2VBQ9Exr",
+          "STATS": {
+            "1": "2",
+            "2": "1",
+            "3": "0",
+            "4": "2",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "18/19",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "nm3oMIkk",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "5",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2018",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "fqmJ8416",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "17/18",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "Kv633bIB",
+          "STATS": {
+            "1": "4",
+            "2": "1",
+            "3": "0",
+            "4": "6",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2017",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "ryfyjsP6",
+          "STATS": {
+            "1": "1",
+            "2": "1",
+            "3": "0",
+            "4": "2",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "16/17",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "QyygZFDH",
+          "STATS": {
+            "1": "5",
+            "2": "3",
+            "3": "0",
+            "4": "7",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2016",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "YPbLPAZl",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "2"
+          }
+        },
+        {
+          "SEASON_LABEL": "15/16",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "U3l5a1hC",
+          "STATS": {
+            "1": "5",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2015",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "fsfIhlSE",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "14/15",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "6FxgXCek",
+          "STATS": {
+            "1": "5",
+            "2": "1",
+            "3": "0",
+            "4": "6",
+            "8": "4"
+          }
+        },
+        {
+          "SEASON_LABEL": "13/14",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "6iWAK56G",
+          "STATS": {
+            "1": "5",
+            "2": "1",
+            "3": "0",
+            "4": "6",
+            "8": "3"
+          }
+        },
+        {
+          "SEASON_LABEL": "2013",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "boTSnH3i",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "12/13",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "tQGxOXQj",
+          "STATS": {
+            "1": "4",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2012",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "rwkdIT61",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "11/12",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "rwilTT30",
+          "STATS": {
+            "1": "3",
+            "2": "1",
+            "3": "0",
+            "4": "7",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2011",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "4lMAGSvm",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "10/11",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "694TxgrM",
+          "STATS": {
+            "1": "6",
+            "2": "1",
+            "3": "0",
+            "4": "4",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2010",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "G4qT4jfo",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2009",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Super Cup",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "rNEXkb9q",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "08/09",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Copa del Rey",
+          "TOURNAMENT_FLAG_ID": "176",
+          "TOURNAMENT_STAGE_ID": "C8wqzbIc",
+          "STATS": {
+            "1": "2",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        }
+      ]
+    },
+    {
+      "TAB_ID": "3",
+      "TAB_LABEL": "International Cups",
+      "TAB_TYPE": "1",
+      "ROWS": [
+        {
+          "SEASON_LABEL": "21/22",
+          "TEAM_ID": "CjhkPw0k",
+          "TEAM_NAME": "Paris SG",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/EskJufg5-lIDJVsTo.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "CzMyLBUf",
+          "STATS": {
+            "1": "5",
+            "2": "1",
+            "3": "0",
+            "4": "7",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "20/21",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "OxWJIutM",
+          "STATS": {
+            "1": "5",
+            "2": "0",
+            "3": "0",
+            "4": "6",
+            "8": "2"
+          }
+        },
+        {
+          "SEASON_LABEL": "19/20",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "CQzYyIIG",
+          "STATS": {
+            "1": "3",
+            "2": "2",
+            "3": "0",
+            "4": "8",
+            "8": "3"
+          }
+        },
+        {
+          "SEASON_LABEL": "18/19",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "lEbZ3p60",
+          "STATS": {
+            "1": "12",
+            "2": "0",
+            "3": "0",
+            "4": "10",
+            "8": "3"
+          }
+        },
+        {
+          "SEASON_LABEL": "17/18",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "MsFuDX7j",
+          "STATS": {
+            "1": "6",
+            "2": "2",
+            "3": "0",
+            "4": "10",
+            "8": "2"
+          }
+        },
+        {
+          "SEASON_LABEL": "16/17",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "WzcetCg3",
+          "STATS": {
+            "1": "11",
+            "2": "0",
+            "3": "0",
+            "4": "9",
+            "8": "2"
+          }
+        },
+        {
+          "SEASON_LABEL": "15/16",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "4Y8uZGlQ",
+          "STATS": {
+            "1": "6",
+            "2": "1",
+            "3": "0",
+            "4": "7",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "2015",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "FIFA Club World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "2wp0dwvl",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2015",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "UEFA Super Cup",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "8C44wnAI",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "14/15",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "YHY0RvJ0",
+          "STATS": {
+            "1": "10",
+            "2": "1",
+            "3": "0",
+            "4": "13",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "13/14",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "6gkWAkp0",
+          "STATS": {
+            "1": "8",
+            "2": "0",
+            "3": "0",
+            "4": "7",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "12/13",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "Mk8r0BK1",
+          "STATS": {
+            "1": "8",
+            "2": "0",
+            "3": "0",
+            "4": "11",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "11/12",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "lQm4VbMn",
+          "STATS": {
+            "1": "14",
+            "2": "2",
+            "3": "0",
+            "4": "11",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2011",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "FIFA Club World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "pEoekIvq",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2011",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "UEFA Super Cup",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "EBkL8SEd",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "10/11",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "b9O7baeI",
+          "STATS": {
+            "1": "12",
+            "2": "0",
+            "3": "0",
+            "4": "13",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "09/10",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "KEUqwJAr",
+          "STATS": {
+            "1": "8",
+            "2": "0",
+            "3": "0",
+            "4": "11",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2009",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "FIFA Club World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "hSjylrZn",
+          "STATS": {
+            "1": "2",
+            "2": "1",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2009",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "UEFA Super Cup",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "xYu73rNn",
+          "STATS": {
+            "1": "0",
+            "2": "1",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "08/09",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "vXr8fotG",
+          "STATS": {
+            "1": "9",
+            "2": "1",
+            "3": "0",
+            "4": "12",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "07/08",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "pKmCFmAM",
+          "STATS": {
+            "1": "6",
+            "2": "2",
+            "3": "0",
+            "4": "9",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "06/07",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "0jAS2TfG",
+          "STATS": {
+            "1": "1",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2006",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "UEFA Super Cup",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "bBCdDKV5",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "05/06",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "6TAO39uA",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "6",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "04/05",
+          "TEAM_ID": "SKbpVP5K",
+          "TEAM_NAME": "Barcelona",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/8dhw5vxS-trs0hqL9.png",
+          "TOURNAMENT_NAME": "Champions League",
+          "TOURNAMENT_FLAG_ID": "6",
+          "TOURNAMENT_STAGE_ID": "SxCK4kQ3",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        }
+      ]
+    },
+    {
+      "TAB_ID": "4",
+      "TAB_LABEL": "National Team",
+      "TAB_TYPE": "1",
+      "ROWS": [
+        {
+          "SEASON_LABEL": "2022",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup - Qualification",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "KC7EZIGl",
+          "STATS": {
+            "1": "7",
+            "2": "0",
+            "3": "0",
+            "4": "15",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2021",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "Eq6mdgec",
+          "STATS": {
+            "1": "4",
+            "2": "0",
+            "3": "0",
+            "4": "7",
+            "8": "5"
+          }
+        },
+        {
+          "SEASON_LABEL": "2019",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "OfNpN7aq",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "1",
+            "4": "6",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "2019",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "h2Z4gCqc",
+          "STATS": {
+            "1": "4",
+            "2": "0",
+            "3": "0",
+            "4": "4",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "2018",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "GnyivtGt",
+          "STATS": {
+            "1": "1",
+            "2": "1",
+            "3": "0",
+            "4": "4",
+            "8": "2"
+          }
+        },
+        {
+          "SEASON_LABEL": "2018",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "A1EssyS3",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2018",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup - Qualification",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "GnyivtGt",
+          "STATS": {
+            "1": "7",
+            "2": "0",
+            "3": "0",
+            "4": "10",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2017",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "8Ekpeeh2",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2016",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "Cr8MJhxp",
+          "STATS": {
+            "1": "5",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "4"
+          }
+        },
+        {
+          "SEASON_LABEL": "2016",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "l8RaNSId",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "1",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2015",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "Oh4XlInJ",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2015",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "G2gt6Qqr",
+          "STATS": {
+            "1": "1",
+            "2": "1",
+            "3": "0",
+            "4": "6",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2014",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "Y1AtyE03",
+          "STATS": {
+            "1": "4",
+            "2": "0",
+            "3": "0",
+            "4": "7",
+            "8": "1"
+          }
+        },
+        {
+          "SEASON_LABEL": "2014",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "zB0cRCBC",
+          "STATS": {
+            "1": "4",
+            "2": "0",
+            "3": "0",
+            "4": "7",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2014",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup - Qualification",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "Y1AtyE03",
+          "STATS": {
+            "1": "10",
+            "2": "0",
+            "3": "0",
+            "4": "13",
+            "8": "0"
+          }
+        },
+        {
+          "SEASON_LABEL": "2013",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "fcEuskLN",
+          "STATS": {
+            "1": "3",
+            "2": "0",
+            "3": "0",
+            "4": "2",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2012",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "xILjwYu2",
+          "STATS": {
+            "1": "7",
+            "2": "0",
+            "3": "0",
+            "4": "3",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2011",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "0lJNLkQD",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "4",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2011",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Friendly International",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "23K8L92S",
+          "STATS": {
+            "1": "2",
+            "2": "0",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2010",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "v3klObUb",
+          "STATS": {
+            "1": "0",
+            "2": "0",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2010",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup - Qualification",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "v3klObUb",
+          "STATS": {
+            "1": "4",
+            "2": "1",
+            "3": "0",
+            "4": "17",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2008",
+          "TEAM_ID": "6cZr00h8",
+          "TEAM_NAME": "Argentina Ol.",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/OSwkLCFG-ddAnL3Da.png",
+          "TOURNAMENT_NAME": "Olympic Games",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "YNwWV3Io",
+          "STATS": {
+            "1": "2",
+            "2": "1",
+            "3": "0",
+            "4": "5",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2007",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "Copa América",
+          "TOURNAMENT_FLAG_ID": "3",
+          "TOURNAMENT_STAGE_ID": "xAtMAwRD",
+          "STATS": {
+            "1": "2",
+            "2": "1",
+            "3": "0",
+            "4": "6",
+            "8": "-"
+          }
+        },
+        {
+          "SEASON_LABEL": "2006",
+          "TEAM_ID": "f9OppQjp",
+          "TEAM_NAME": "Argentina",
+          "TEAM_IMAGE_URL": "https://www.flashscore.com/res/image/data/xQCUe9zB-Ew8fJsrC.png",
+          "TOURNAMENT_NAME": "World Cup",
+          "TOURNAMENT_FLAG_ID": "8",
+          "TOURNAMENT_STAGE_ID": "z1qq3mkL",
+          "STATS": {
+            "1": "1",
+            "2": "0",
+            "3": "0",
+            "4": "3",
+            "8": "-"
+          }
+        }
+      ]
+    }
+  ]
+}

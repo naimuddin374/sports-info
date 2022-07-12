@@ -1,0 +1,86 @@
+{
+  "external_id": "bXR4isVp",
+  "id": "bXR4isVp",
+  "type": "event",
+  "data": {
+    "NAME": "England: Premier League",
+    "HEADER": "England: Premier League;172;6kJqdMr2",
+    "NAME_PART_1": "England",
+    "NAME_PART_2": "Premier League",
+    "TOURNAMENT_TEMPLATE_ID": "dYlOSQOD",
+    "COUNTRY_ID": 198,
+    "COUNTRY_NAME": "England",
+    "TOURNAMENT_STAGE_ID": "6kJqdMr2",
+    "TOURNAMENT_TYPE": "t",
+    "TOURNAMENT_ID": "tdkpynmB",
+    "SOURCE_TYPE": 0,
+    "HAS_LIVE_TABLE": 0,
+    "STANDING_INFO": 1,
+    "TEMPLATE_ID": "198_dYlOSQOD",
+    "TOURNAMENT_STAGE_TYPE": 2,
+    "SHORT_NAME": "Premier League",
+    "URL": "/football/england/premier-league/",
+    "TOURNAMENT_IMAGE": null,
+    "STAGES_COUNT": 0,
+    "ZKL": "",
+    "ZKU": "",
+    "TOURNAMENT_SEASON_ID": "tdkpynmB",
+    "CATEGORY_NAME": "England",
+    "EVENT_ID": "bXR4isVp",
+    "START_TIME": 1647793800,
+    "START_UTIME": 1647793800,
+    "STAGE_TYPE": "FINISHED",
+    "MERGE_STAGE_TYPE": "FINISHED",
+    "STAGE": "FINISHED",
+    "SORT": "99999",
+    "ROUND": "Round 30",
+    "VISIBLE_RUN_RATE": 0,
+    "HAS_LINEPS": 1,
+    "AUDIO_COMMENT_URL": "https://livesportradio.com/global/reeng3/playlist.m3u8",
+    "STAGE_START_TIME": 1647800709,
+    "GAME_TIME": "-1",
+    "RECENT_OVERS": "",
+    "SHORTNAME_HOME": "TOT",
+    "HOME_PARTICIPANT_IDS": [
+      "UDg08Ohm"
+    ],
+    "HOME_PARTICIPANT_TYPES": [
+      1
+    ],
+    "HOME_NAME": "Tottenham",
+    "FH": "Tottenham",
+    "HOME_EVENT_PARTICIPANT_ID": "Y159KYP4",
+    "WINNER": 1,
+    "ODDS_WINNER": 1,
+    "ODDS_WINNER_OUTCOME": 1,
+    "HOME_GOAL_VAR": 0,
+    "HOME_SCORE_CURRENT": "3",
+    "HOME_SCORE_PART_1": "2",
+    "HOME_SCORE_PART_2": "1",
+    "HOME_IMAGES": [
+      "https://www.flashscore.com/res/image/data/ARC62UAr-v5ije0l1.png"
+    ],
+    "IMM": "Cxq57r8g",
+    "IMW": "100",
+    "IMP": "Qo3RdMjl-6yPGRiKq.png",
+    "IME": "",
+    "SHORTNAME_AWAY": "WHU",
+    "AWAY_PARTICIPANT_IDS": [
+      "Cxq57r8g"
+    ],
+    "AWAY_PARTICIPANT_TYPES": [
+      1
+    ],
+    "AWAY_NAME": "West Ham",
+    "FK": "West Ham",
+    "AWAY_EVENT_PARTICIPANT_ID": "n59DJhuB",
+    "AWAY_GOAL_VAR": 0,
+    "AWAY_SCORE_CURRENT": "1",
+    "AWAY_SCORE_PART_1": "1",
+    "AWAY_SCORE_PART_2": "0",
+    "AWAY_IMAGES": [
+      "https://www.flashscore.com/res/image/data/Qo3RdMjl-6yPGRiKq.png"
+    ],
+    "HAS_LIVE_CENTRE": 1
+  }
+}

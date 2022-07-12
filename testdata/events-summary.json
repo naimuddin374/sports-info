@@ -1,0 +1,34 @@
+{
+  "DATA": [
+    {
+      "STAGE_NAME": "3",
+      "HOME_RUNS_FIRST_INNING": "6",
+      "HOME_OVERS_AND_BALLS_FIRST_INNING": "4",
+      "AWAY_RUNS_FIRST_INNING": "7",
+      "DB": "7",
+      "MATCH_TIME_PART_1": "1:12"
+    },
+    {
+      "HOME_RUNS_SECOND_INNING": "6",
+      "AWAY_RUNS_SECOND_INNING": "4",
+      "MATCH_TIME_PART_2": "0:43"
+    },
+    {
+      "BE": "6",
+      "BF": "4",
+      "MATCH_TIME_PART_3": "0:48"
+    },
+    {
+      "BG": "6",
+      "BH": "3",
+      "MATCH_TIME_PART_4": "0:44"
+    },
+    {
+      "MATCH_TIME_OVERALL": "3:27"
+    }
+  ],
+  "INFO": {
+    "VENUE": "Centre Court (London)"
+  },
+  "LAST_CHANGE_KEY": null
+}

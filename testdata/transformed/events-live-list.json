@@ -1,0 +1,84 @@
+{
+  "external_id": "UJIUOZWM",
+  "id": "UJIUOZWM",
+  "type": "event",
+  "data":
+    {
+      "NAME": "Burkina Faso: Premier League",
+      "HEADER": "Burkina Faso: Premier League;172;xM4AQXYS",
+      "NAME_PART_1": "Burkina Faso",
+      "NAME_PART_2": "Premier League",
+      "TOURNAMENT_TEMPLATE_ID": "zuRA3mqS",
+      "COUNTRY_ID": 42,
+      "COUNTRY_NAME": "Burkina Faso",
+      "TOURNAMENT_STAGE_ID": "xM4AQXYS",
+      "TOURNAMENT_TYPE": "p",
+      "TOURNAMENT_ID": "baOiQtkh",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 1,
+      "STANDING_INFO": 1,
+      "TEMPLATE_ID": "42_zuRA3mqS",
+      "TOURNAMENT_STAGE_TYPE": 2,
+      "SHORT_NAME": "Premier League",
+      "URL": "/football/burkina-faso/premier-league/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/vebvF9BO-Yi2AufbD.png",
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "baOiQtkh",
+      "CATEGORY_NAME": "Burkina Faso",
+      "EVENT_ID": "UJIUOZWM",
+      "START_TIME": 1648483200,
+      "START_UTIME": 1648483200,
+      "STAGE_TYPE": "LIVE",
+      "MERGE_STAGE_TYPE": "LIVE",
+      "STAGE": "FIRST_HALF",
+      "SORT": "AS Police",
+      "ROUND": "Round 22",
+      "VISIBLE_RUN_RATE": 0,
+      "LIVE_MARK": "y",
+      "HAS_LINEPS": 0,
+      "STAGE_START_TIME": 1648483378,
+      "GAME_TIME": "",
+      "RECENT_OVERS": "",
+      "SHORTNAME_HOME": "ASP",
+      "HOME_PARTICIPANT_IDS": [
+        "Yy8Tcqzr"
+      ],
+      "HOME_PARTICIPANT_TYPES": [
+        1
+      ],
+      "HOME_NAME": "AS Police",
+      "FH": "AS Police",
+      "HOME_EVENT_PARTICIPANT_ID": "MgY50NAQ",
+      "HOME_GOAL_VAR": 0,
+      "HOME_SCORE_CURRENT": "0",
+      "HOME_SCORE_PART_1": "0",
+      "HOME_IMAGES": [
+        "https://www.flashscore.com/res/image/data/byncmpZA-r3JzeItU.png"
+      ],
+      "IMM": "KEYcn79k",
+      "IMW": "100",
+      "IMP": "tbXZRsHG-2qtJOG19.png",
+      "IME": "",
+      "SHORTNAME_AWAY": "KIK",
+      "AWAY_PARTICIPANT_IDS": [
+        "KEYcn79k"
+      ],
+      "AWAY_PARTICIPANT_TYPES": [
+        1
+      ],
+      "AWAY_NAME": "Kiko",
+      "FK": "Kiko",
+      "AWAY_EVENT_PARTICIPANT_ID": "bFPXesJs",
+      "AWAY_GOAL_VAR": 0,
+      "AWAY_SCORE_CURRENT": "0",
+      "AWAY_SCORE_PART_1": "0",
+      "AWAY_IMAGES": [
+        "https://www.flashscore.com/res/image/data/tbXZRsHG-2qtJOG19.png"
+      ],
+      "AN": "n",
+      "LIVE_IN_OFFER_BOOKMAKER_ID": 43,
+      "LIVE_IN_OFFER_STATUS": 0
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "DATA": [
+    {
+      "TOURNAMENT_STAGE_ID": "ru6aCwke",
+      "TOURNAMENT_STAGE_STATS_TYPE": "table",
+      "VALUE": "Main"
+    },
+    {
+      "TOURNAMENT_STAGE_ID": "Q3e4Bc41",
+      "TOURNAMENT_STAGE_STATS_TYPE": "draw",
+      "VALUE": "Play Offs"
+    },
+    {
+      "TOURNAMENT_STAGE_ID": "pllA4do0",
+      "TOURNAMENT_STAGE_STATS_TYPE": "draw",
+      "VALUE": "Final Stage"
+    }
+  ]
+}

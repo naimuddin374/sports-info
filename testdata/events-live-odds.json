@@ -1,0 +1,13 @@
+{
+  "DATA": {
+    "ODD_BOOKMAKER_ID": 5,
+    "BOOKMAKER_NAME": "Unibet",
+    "ODD_1_1": "d1.3",
+    "ODD_1_1_AVAILABLE": "1",
+    "ODD_0": "u4.1",
+    "ODD_0_AVAILABLE": "1",
+    "ODD_2_1": "u9",
+    "ODD_2_1_AVAILABLE": "1"
+  },
+  "LAST_CHANGE_KEY": null
+}

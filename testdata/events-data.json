@@ -1,0 +1,119 @@
+{
+  "DATA": {
+    "EVENT": {
+      "EVENT_ID": "6ZCocWsb",
+      "START_TIME": 1626009000,
+      "START_UTIME": 1626009000,
+      "STAGE_TYPE": "FINISHED",
+      "MERGE_STAGE_TYPE": "FINISHED",
+      "STAGE": "FINISHED",
+      "SORT": "Djokovic N. (Srb)",
+      "ROUND": "Final",
+      "ERN": "",
+      "VISIBLE_RUN_RATE": 0,
+      "HAS_LINEPS": 0,
+      "STAGE_START_TIME": 1626021243,
+      "GAME_TIME": "-1",
+      "HAS_SWAPPED_PARTICIPANTS": "",
+      "RECENT_OVERS": "",
+      "SHORTNAME_HOME": "DJO",
+      "HOME_PARTICIPANT_IDS": [
+        "AZg49Et9"
+      ],
+      "HOME_PARTICIPANT_TYPES": [
+        2
+      ],
+      "HOME_NAME": "Djokovic N. (Srb)",
+      "FH": "Djokovic N.",
+      "HOME_EVENT_PARTICIPANT_ID": "QHVjhRgr",
+      "HOME_SLUG": "djokovic-novak",
+      "WINNER": 1,
+      "ODDS_WINNER": 1,
+      "ODDS_WINNER_OUTCOME": 1,
+      "HOME_GOAL_VAR": 0,
+      "HOME_PARTICIPANT_COUNTRY_ID": "167",
+      "FU": "Serbia",
+      "AWAY_PARTICIPANT_COUNTRY_ID": "167",
+      "COUNTRY_NAME": "Serbia",
+      "HOME_SCORE_CURRENT": "3",
+      "HOME_SCORE_PART_1": "6",
+      "HOME_SCORE_PART_2": "6",
+      "HOME_SCORE_PART_3": "6",
+      "HOME_SCORE_PART_4": "6",
+      "HOME_TIEBREAK_PART_1": "4",
+      "HOME_IMAGES": [
+        "https://www.flashscore.com/res/image/data/WpMB68Ca-bH8uAe2s.png"
+      ],
+      "IMM": "OhwtM7N8",
+      "IMW": "100",
+      "IMP": "KvZNhNZA-Q19e7ATA.png",
+      "IME": "",
+      "SHORTNAME_AWAY": "BER",
+      "AWAY_PARTICIPANT_IDS": [
+        "OhwtM7N8"
+      ],
+      "AWAY_PARTICIPANT_TYPES": [
+        2
+      ],
+      "AWAY_NAME": "Berrettini M. (Ita)",
+      "FK": "Berrettini M.",
+      "AWAY_EVENT_PARTICIPANT_ID": "48Ufio9l",
+      "AWAY_SLUG": "berrettini-matteo",
+      "AWAY_GOAL_VAR": 0,
+      "CB": "98",
+      "FV": "Italy",
+      "AWAY_SCORE_CURRENT": "1",
+      "AWAY_SCORE_PART_1": "7",
+      "AWAY_SCORE_PART_2": "4",
+      "AWAY_SCORE_PART_3": "4",
+      "AWAY_SCORE_PART_4": "3",
+      "AWAY_TIEBREAK_PART_1": "7",
+      "AWAY_IMAGES": [
+        "https://www.flashscore.com/res/image/data/KvZNhNZA-Q19e7ATA.png"
+      ],
+      "TV_LIVE_STREAMING": null,
+      "HAS_LIVE_CENTRE": 1,
+      "SHOW_IN_MY_TEAMS": 1
+    },
+    "TOURNAMENT": {
+      "NAME": "United Kingdom: Wimbledon ATP, grass",
+      "HEADER": "United Kingdom: Wimbledon ATP, grass;158;YFl9B8Re",
+      "NAME_PART_1": "United Kingdom",
+      "NAME_PART_2": "Wimbledon ATP, grass",
+      "TOURNAMENT_TEMPLATE_ID": "nZi4fKds",
+      "COUNTRY_ID": 197,
+      "COUNTRY_NAME": "United Kingdom",
+      "TOURNAMENT_STAGE_ID": "YFl9B8Re",
+      "TOURNAMENT_TYPE": "t",
+      "TOURNAMENT_ID": "YqaDjHb4",
+      "SOURCE_TYPE": 0,
+      "HAS_LIVE_TABLE": 0,
+      "STANDING_INFO": 2,
+      "TEMPLATE_ID": "9011_nZi4fKds",
+      "TOURNAMENT_STAGE_TYPE": 5,
+      "SHORT_NAME": "Wimbledon ATP",
+      "URL": "/tennis/atp-singles/wimbledon/",
+      "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/S2yeTiRp-raVrCeJN.png",
+      "SORT": "01United Kingd014ingdomWimbledon AT013on ATP110...013110...0000000000001",
+      "SUPER_TEMPLATE_ID": 5724,
+      "STAGES_COUNT": 0,
+      "ZKL": "",
+      "ZKU": "",
+      "TOURNAMENT_SEASON_ID": "YqaDjHb4",
+      "CATEGORY_NAME": "United Kingdom"
+    },
+    "SPORT": {
+      "SPORT_ID": 2
+    }
+  },
+  "META": {
+    "BOOKMAKERS": [
+      {
+        "BOOKMAKER_ID": 16,
+        "TYPE_BET": "3",
+        "SD": "bet365"
+      }
+    ]
+  },
+  "LAST_CHANGE_KEY": "c4aa81140209fcb9141c5bd834aec0f0"
+}

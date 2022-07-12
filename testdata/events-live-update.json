@@ -1,0 +1,64 @@
+{
+  "DATA": [
+    {
+      "EVENT_ID": "neTPPFHG",
+      "STAGE_TYPE": "LIVE",
+      "LIVE_MARK": "y",
+      "STAGE": "FIRST_HALF",
+      "MERGE_STAGE_TYPE": "LIVE",
+      "STAGE_START_TIME": 1648483209,
+      "WJ": "",
+      "WK": "",
+      "UPDATEINDEXES_PERIOD_UPDATE_UTIME": 1648483211,
+      "HOME_SCORE_CURRENT": "0",
+      "HOME_SCORE_PART_1": "0",
+      "AWAY_SCORE_CURRENT": "0",
+      "AWAY_SCORE_PART_1": "0"
+    },
+    {
+      "EVENT_ID": "nuoDxVbt",
+      "STAGE_TYPE": "FINISHED",
+      "LIVE_MARK": "y",
+      "STAGE": "FINISHED",
+      "MERGE_STAGE_TYPE": "FINISHED",
+      "STAGE_START_TIME": 1648483175,
+      "WJ": "",
+      "WK": "",
+      "UPDATEINDEXES_PERIOD_UPDATE_UTIME": 1648483195,
+      "HOME_SCORE_CURRENT": "0",
+      "HOME_SCORE_PART_1": "0",
+      "HOME_SCORE_PART_2": "0",
+      "WINNER": 2,
+      "ODDS_WINNER": 2,
+      "ODDS_WINNER_OUTCOME": 2,
+      "AWAY_SCORE_CURRENT": "1",
+      "AWAY_SCORE_PART_1": "1",
+      "AWAY_SCORE_PART_2": "0"
+    },
+    {
+      "EVENT_ID": "fLf0SGQJ",
+      "STAGE_TYPE": "LIVE",
+      "LIVE_MARK": "y",
+      "STAGE": "FIRST_HALF",
+      "MERGE_STAGE_TYPE": "LIVE",
+      "STAGE_START_TIME": 1648483208,
+      "WJ": "",
+      "WK": "",
+      "UPDATEINDEXES_PERIOD_UPDATE_UTIME": 1648483208,
+      "HOME_SCORE_CURRENT": "0",
+      "HOME_SCORE_PART_1": "0",
+      "AWAY_SCORE_CURRENT": "0",
+      "AWAY_SCORE_PART_1": "0"
+    },
+    {
+      "EVENT_ID": "hjoeCmoK",
+      "SCORE_CHANCE_AWAY": "1648483210"
+    },
+    {
+      "EVENT_ID": "2iXT2jW5"
+    },
+    {
+      "EVENT_ID": "pQqTZLmn"
+    }
+  ]
+}

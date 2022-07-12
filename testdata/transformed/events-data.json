@@ -1,0 +1,33 @@
+{
+  "external_id": "YqaDjHb4",
+  "id": "YqaDjHb4",
+  "type": "tournament",
+  "data": {
+    "NAME": "United Kingdom: Wimbledon ATP, grass",
+    "HEADER": "United Kingdom: Wimbledon ATP, grass;158;YFl9B8Re",
+    "NAME_PART_1": "United Kingdom",
+    "NAME_PART_2": "Wimbledon ATP, grass",
+    "SPORT_ID": 2,
+    "TOURNAMENT_TEMPLATE_ID": "nZi4fKds",
+    "COUNTRY_ID": 197,
+    "COUNTRY_NAME": "United Kingdom",
+    "TOURNAMENT_STAGE_ID": "YFl9B8Re",
+    "TOURNAMENT_TYPE": "t",
+    "TOURNAMENT_ID": "YqaDjHb4",
+    "SOURCE_TYPE": 0,
+    "HAS_LIVE_TABLE": 0,
+    "STANDING_INFO": 2,
+    "TEMPLATE_ID": "9011_nZi4fKds",
+    "TOURNAMENT_STAGE_TYPE": 5,
+    "SHORT_NAME": "Wimbledon ATP",
+    "URL": "/tennis/atp-singles/wimbledon/",
+    "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/S2yeTiRp-raVrCeJN.png",
+    "SORT": "01United Kingd014ingdomWimbledon AT013on ATP110...013110...0000000000001",
+    "SUPER_TEMPLATE_ID": 5724,
+    "STAGES_COUNT": 0,
+    "ZKL": "",
+    "ZKU": "",
+    "TOURNAMENT_SEASON_ID": "YqaDjHb4",
+    "CATEGORY_NAME": "United Kingdom"
+  }
+}

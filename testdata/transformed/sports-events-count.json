@@ -1,0 +1,11 @@
+{
+  "data": {
+    "SPORT_ID": 1,
+    "EVENTS_COUNT": 99,
+    "EVENTS_COUNT_LIVE": 9,
+    "IS_POPULAR": 1,
+    "SPORT_NAME": "SOCCER"
+  },
+  "external_id": 1,
+  "id" : 1
+}

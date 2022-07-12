@@ -1,0 +1,19 @@
+{
+  "external_id": "neTPPFHG",
+  "id": "neTPPFHG",
+  "data": {
+    "EVENT_ID": "neTPPFHG",
+    "STAGE_TYPE": "LIVE",
+    "LIVE_MARK": "y",
+    "STAGE": "FIRST_HALF",
+    "MERGE_STAGE_TYPE": "LIVE",
+    "STAGE_START_TIME": 1648483209,
+    "WJ": "",
+    "WK": "",
+    "UPDATEINDEXES_PERIOD_UPDATE_UTIME": 1648483211,
+    "HOME_SCORE_CURRENT": "0",
+    "HOME_SCORE_PART_1": "0",
+    "AWAY_SCORE_CURRENT": "0",
+    "AWAY_SCORE_PART_1": "0"
+  }
+}

@@ -1,0 +1,4291 @@
+{
+  "DATA": [
+    {
+      "TAB_NAME": "Overall",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "Last matches: AC Milan",
+          "ITEMS": [
+            {
+              "START_TIME": 1647719100,
+              "EVENT_ID": "02PPlolb",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Cagliari",
+              "FH": "Cagliari",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IBlLf9f5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1647114300,
+              "EVENT_ID": "0ny2Z5lB",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Empoli",
+              "FK": "Empoli",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/xArvJNCa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1646595900,
+              "EVENT_ID": "KSFSK6ZH",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Napoli",
+              "FH": "Napoli",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lhPsgJWg-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1646164800,
+              "EVENT_ID": "zmQQKEd2",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Inter",
+              "FK": "Inter",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645811100,
+              "EVENT_ID": "f7wr99z6",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Udinese",
+              "FK": "Udinese",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AZBQMaYA-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645299900,
+              "EVENT_ID": "OOn28xpe",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Salernitana",
+              "FH": "Salernitana",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/K8hPw2h5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1644751800,
+              "EVENT_ID": "xEwsq7bg",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Sampdoria",
+              "FK": "Sampdoria",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lnVY1W9r-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1644436800,
+              "EVENT_ID": "tj0Uidee",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Lazio",
+              "FK": "Lazio",
+              "FL": "",
+              "CURRENT_RESULT": "4:0",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/zXqymff5-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1644080400,
+              "EVENT_ID": "nBLZlxVE",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Inter",
+              "FH": "Inter",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1642967100,
+              "EVENT_ID": "rFC6kl4S",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Juventus",
+              "FK": "Juventus",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CbDOFGyS-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642440600,
+              "EVENT_ID": "zVpHvXkA",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Spezia",
+              "FK": "Spezia",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2yWnWaBr-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642104000,
+              "EVENT_ID": "C6lwus0U",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "10",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Genoa",
+              "FK": "Genoa",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/KKFT9LZA-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(1:1)",
+              "KX": "1",
+              "KY": "1",
+              "WL_ICON_TYPE": "wo",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1641727800,
+              "EVENT_ID": "Y50IJVDp",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Venezia",
+              "FH": "Venezia",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/WxiS2Wkl-8dqXppkD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1641490200,
+              "EVENT_ID": "WGz4Ezx5",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AS Roma",
+              "FK": "AS Roma",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QPgsexZA-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1640202300,
+              "EVENT_ID": "Ea2bcr1D",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Empoli",
+              "FH": "Empoli",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "2:4",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/xArvJNCa-jq9ih1dt.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1639943100,
+              "EVENT_ID": "Yq7w26nr",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Napoli",
+              "FK": "Napoli",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lhPsgJWg-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1639251900,
+              "EVENT_ID": "8tOFnRne",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Udinese",
+              "FH": "Udinese",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AZBQMaYA-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638626400,
+              "EVENT_ID": "K2AgsWAF",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Salernitana",
+              "FK": "Salernitana",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/K8hPw2h5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638387900,
+              "EVENT_ID": "6yC6rLkh",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Genoa",
+              "FH": "Genoa",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/KKFT9LZA-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638108000,
+              "EVENT_ID": "K4LWVs6n",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Sassuolo",
+              "FK": "Sassuolo",
+              "FL": "",
+              "CURRENT_RESULT": "1:3",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IFKEHRGG-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1637784000,
+              "EVENT_ID": "G4r94WLu",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Atl. Madrid",
+              "FH": "Atl. Madrid",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1637437500,
+              "EVENT_ID": "jRSOwxmQ",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*Fiorentina",
+              "FH": "Fiorentina",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "4:3",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Mk94AUkl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1636314300,
+              "EVENT_ID": "fZaDLxRs",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Inter",
+              "FK": "Inter",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635961500,
+              "EVENT_ID": "lII8hQSp",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "FC Porto",
+              "FK": "FC Porto",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635709500,
+              "EVENT_ID": "fLKv7wCl",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AS Roma",
+              "FH": "AS Roma",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QPgsexZA-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1635273900,
+              "EVENT_ID": "MgDKKmN4",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Torino",
+              "FK": "Torino",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/OQWGjGcM-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635014700,
+              "EVENT_ID": "rZpKikgI",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Bologna",
+              "FH": "Bologna",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "2:4",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/j3Tyh1GG-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634670000,
+              "EVENT_ID": "lfzM1U5b",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*FC Porto",
+              "FH": "FC Porto",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634409900,
+              "EVENT_ID": "vy5fcgPt",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Verona",
+              "FK": "Verona",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vgsKSajl-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1633286700,
+              "EVENT_ID": "6ouG4GF9",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Atalanta",
+              "FH": "Atalanta",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "2:3",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/xASUZ6il-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632855600,
+              "EVENT_ID": "vqTYbSkH",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Atl. Madrid",
+              "FK": "Atl. Madrid",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1632574800,
+              "EVENT_ID": "Q7eawvHA",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Spezia",
+              "FH": "Spezia",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2yWnWaBr-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632336300,
+              "EVENT_ID": "ITrmpkYP",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Venezia",
+              "FK": "Venezia",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/WxiS2Wkl-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1632077100,
+              "EVENT_ID": "xEwFAls7",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Juventus",
+              "FH": "Juventus",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CbDOFGyS-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1631732400,
+              "EVENT_ID": "A3yI2Ajh",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1631462400,
+              "EVENT_ID": "6iATbire",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Lazio",
+              "FK": "Lazio",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/zXqymff5-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1630262700,
+              "EVENT_ID": "S0kfphT1",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Cagliari",
+              "FK": "Cagliari",
+              "FL": "",
+              "CURRENT_RESULT": "4:1",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IBlLf9f5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1629744300,
+              "EVENT_ID": "6DNIp1Np",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Sampdoria",
+              "FH": "Sampdoria",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lnVY1W9r-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1628965800,
+              "EVENT_ID": "ULTDP5zt",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Panathinaikos",
+              "FK": "Panathinaikos",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Me3pW6Ea-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1628440200,
+              "EVENT_ID": "bu2ONVjf",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "Real Madrid",
+              "FH": "Real Madrid",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/A7kHoxZA-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1628101800,
+              "EVENT_ID": "h0h84M4U",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "11",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "Valencia",
+              "FH": "Valencia",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/O2FpIYg5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "FT_RESULT": "(0:0)",
+              "KX": "0",
+              "KY": "0",
+              "WL_ICON_TYPE": "lo",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1627756200,
+              "EVENT_ID": "E9g452kO",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "Nice",
+              "FH": "Nice",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/boyRUvyB-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1627138800,
+              "EVENT_ID": "8vJrYhCh",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Modena",
+              "FK": "Modena",
+              "FL": "",
+              "CURRENT_RESULT": "5:0",
+              "HOME_SCORE_FULL": "5",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/fk5PBih5-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1621795500,
+              "EVENT_ID": "zTgyEAHp",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Atalanta",
+              "FH": "Atalanta",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/xASUZ6il-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1621190700,
+              "EVENT_ID": "lGXP7ZfB",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Cagliari",
+              "FK": "Cagliari",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IBlLf9f5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1620845100,
+              "EVENT_ID": "re2igztI",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Torino",
+              "FH": "Torino",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:7",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "7",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/OQWGjGcM-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1620585900,
+              "EVENT_ID": "Gp2Ch3k7",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "Juventus",
+              "FH": "Juventus",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CbDOFGyS-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1619894700,
+              "EVENT_ID": "xGWcm8DR",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Benevento",
+              "FK": "Benevento",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/rm9NwUZA-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1619462700,
+              "EVENT_ID": "0KvmV8iq",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*Lazio",
+              "FH": "Lazio",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "3:0",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/zXqymff5-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            }
+          ]
+        },
+        {
+          "GROUP_LABEL": "Last matches: Liverpool",
+          "ITEMS": [
+            {
+              "START_TIME": 1647799200,
+              "EVENT_ID": "jXsJtb7J",
+              "EVENT_NAME": "FA Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "FAC",
+              "HOME_PARTICIPANT": "Nottingham",
+              "FH": "Nottingham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QkRJwBZA-8dqXppkD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1647461700,
+              "EVENT_ID": "b76idBaF",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Arsenal",
+              "FH": "Arsenal",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1647088200,
+              "EVENT_ID": "fw8omSwa",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Brighton",
+              "FH": "Brighton",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/40juIezB-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1646769600,
+              "EVENT_ID": "84UsPuyR",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Inter",
+              "FK": "Inter",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1646501400,
+              "EVENT_ID": "Qoh7neml",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "West Ham",
+              "FK": "West Ham",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Qo3RdMjl-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1646252100,
+              "EVENT_ID": "l4BfagCB",
+              "EVENT_NAME": "FA Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "FAC",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Norwich",
+              "FK": "Norwich",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645979400,
+              "EVENT_ID": "nykmEn2c",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "11",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Chelsea",
+              "FH": "Chelsea",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(0:0)",
+              "KX": "0",
+              "KY": "0",
+              "WL_ICON_TYPE": "wo",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1645645500,
+              "EVENT_ID": "OOb0zFK5",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Leeds",
+              "FK": "Leeds",
+              "FL": "",
+              "CURRENT_RESULT": "6:0",
+              "HOME_SCORE_FULL": "6",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/rsvCPOh5-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645282800,
+              "EVENT_ID": "fwWiyANk",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Norwich",
+              "FK": "Norwich",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645041600,
+              "EVENT_ID": "UDVwQLLK",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Inter",
+              "FH": "Inter",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1644760800,
+              "EVENT_ID": "UcovWEoA",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Burnley",
+              "FH": "Burnley",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lAaUWxe5-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1644522300,
+              "EVENT_ID": "lMtsP6YP",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Leicester",
+              "FK": "Leicester",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Em1CYqYg-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1644148800,
+              "EVENT_ID": "rZ25ajy8",
+              "EVENT_NAME": "FA Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "FAC",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Cardiff",
+              "FK": "Cardiff",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/4KcsH9xS-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642946400,
+              "EVENT_ID": "zwB8iSCf",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Crystal Palace",
+              "FH": "Crystal Palace",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:3",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AFNlsDzS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1642707900,
+              "EVENT_ID": "pW4gALHA",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Arsenal",
+              "FH": "Arsenal",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1642341600,
+              "EVENT_ID": "0KdQvkTl",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Brentford",
+              "FK": "Brentford",
+              "FL": "",
+              "CURRENT_RESULT": "3:0",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/bBj3NWfM-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642103100,
+              "EVENT_ID": "rHNd9uXG",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Arsenal",
+              "FK": "Arsenal",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1641736800,
+              "EVENT_ID": "G67gf7ED",
+              "EVENT_NAME": "FA Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "FAC",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Shrewsbury",
+              "FK": "Shrewsbury",
+              "FL": "",
+              "CURRENT_RESULT": "4:1",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AgYaoCYg-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1641141000,
+              "EVENT_ID": "Yi5FqvFG",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Chelsea",
+              "FH": "Chelsea",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1640721600,
+              "EVENT_ID": "x6LCPINp",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Leicester",
+              "FH": "Leicester",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Em1CYqYg-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1640202300,
+              "EVENT_ID": "I1rsgCqG",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "11",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Leicester",
+              "FK": "Leicester",
+              "FL": "",
+              "CURRENT_RESULT": "4:3",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Em1CYqYg-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(3:3)",
+              "KX": "3",
+              "KY": "3",
+              "WL_ICON_TYPE": "wo",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1639931400,
+              "EVENT_ID": "nwYVKZKI",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Tottenham",
+              "FH": "Tottenham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/ARC62UAr-8dqXppkD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1639684800,
+              "EVENT_ID": "GfsjK2U7",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Newcastle",
+              "FK": "Newcastle",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/fojwJwZA-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1639234800,
+              "EVENT_ID": "4MxD85Ve",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Aston Villa",
+              "FK": "Aston Villa",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QsnteKXg-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638630000,
+              "EVENT_ID": "pC6HJVwc",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Wolves",
+              "FH": "Wolves",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Iwsrq5xS-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638389700,
+              "EVENT_ID": "ULH0hgub",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Everton",
+              "FH": "Everton",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:4",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/EwJqZUZA-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638025200,
+              "EVENT_ID": "8E7tmb3I",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Southampton",
+              "FK": "Southampton",
+              "FL": "",
+              "CURRENT_RESULT": "4:0",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/fmA9gnyB-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1637784000,
+              "EVENT_ID": "SvnD3jyn",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "FC Porto",
+              "FK": "FC Porto",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1637429400,
+              "EVENT_ID": "C6zouq5s",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Arsenal",
+              "FK": "Arsenal",
+              "FL": "",
+              "CURRENT_RESULT": "4:0",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1636302600,
+              "EVENT_ID": "0S6SM1kD",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*West Ham",
+              "FH": "West Ham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Qo3RdMjl-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1635969600,
+              "EVENT_ID": "ITvQ0lL4",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Atl. Madrid",
+              "FK": "Atl. Madrid",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635602400,
+              "EVENT_ID": "0p0bJSrL",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Brighton",
+              "FK": "Brighton",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/40juIezB-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635360300,
+              "EVENT_ID": "Op8jcEe8",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Preston",
+              "FH": "Preston",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vFaP2idM-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1635089400,
+              "EVENT_ID": "ve75FbQk",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Manchester Utd",
+              "FH": "Manchester Utd",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:5",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/nwSRlyWg-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634670000,
+              "EVENT_ID": "0h8apTzO",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Atl. Madrid",
+              "FH": "Atl. Madrid",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:3",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634383800,
+              "EVENT_ID": "4QjVDoko",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Watford",
+              "FH": "Watford",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:5",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/C2N3btil-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1633275000,
+              "EVENT_ID": "Mwc88jD5",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Manchester City",
+              "FK": "Manchester City",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/UXcqj7HG-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1632855600,
+              "EVENT_ID": "hnXxbn5N",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "FC Porto",
+              "FH": "FC Porto",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:5",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632587400,
+              "EVENT_ID": "YwIf3eyQ",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Brentford",
+              "FH": "Brentford",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:3",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/bBj3NWfM-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632249900,
+              "EVENT_ID": "2iL4RcIF",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Norwich",
+              "FH": "Norwich",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1631973600,
+              "EVENT_ID": "rguqodFs",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Crystal Palace",
+              "FK": "Crystal Palace",
+              "FL": "",
+              "CURRENT_RESULT": "3:0",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AFNlsDzS-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1631732400,
+              "EVENT_ID": "A3yI2Ajh",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1631460600,
+              "EVENT_ID": "jcepmqoS",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Leeds",
+              "FH": "Leeds",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/rsvCPOh5-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1630168200,
+              "EVENT_ID": "M3OfxSW9",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Chelsea",
+              "FK": "Chelsea",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1629545400,
+              "EVENT_ID": "I9tTNSHG",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Burnley",
+              "FK": "Burnley",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lAaUWxe5-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1628958600,
+              "EVENT_ID": "zyjnqNL1",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Norwich",
+              "FH": "Norwich",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1628532000,
+              "EVENT_ID": "0AcecRJB",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Osasuna",
+              "FK": "Osasuna",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/84LOczeM-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1628434800,
+              "EVENT_ID": "6Zrhb745",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Ath Bilbao",
+              "FK": "Ath Bilbao",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/E9o4aVEa-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1628179200,
+              "EVENT_ID": "drI6tXuM",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Bologna",
+              "FK": "Bologna",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/j3Tyh1GG-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            }
+          ]
+        },
+        {
+          "GROUP_LABEL": "Head-to-head matches",
+          "ITEMS": [
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1631732400,
+              "EVENT_ID": "A3yI2Ajh",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ]
+            },
+            {
+              "START_TIME": 1469930700,
+              "EVENT_ID": "dhwNIjIR",
+              "EVENT_NAME": "International Champions Cup",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "ICC",
+              "HOME_PARTICIPANT": "*Liverpool",
+              "FH": "Liverpool",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AC Milan",
+              "FK": "AC Milan",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ]
+            },
+            {
+              "START_TIME": 1407018600,
+              "EVENT_ID": "IL4vLHS7",
+              "EVENT_NAME": "International Champions Cup",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "ICC",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1179945900,
+              "EVENT_ID": "zm7nzPnm",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1117046700,
+              "EVENT_ID": "bNqbTLJH",
+              "EVENT_NAME": "Champions League",
+              "AC": "11",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:4",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(3:3)",
+              "KX": "3",
+              "KY": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "TAB_NAME": "ACM - Home",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "Last matches: AC Milan",
+          "ITEMS": [
+            {
+              "START_TIME": 1647114300,
+              "EVENT_ID": "0ny2Z5lB",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Empoli",
+              "FK": "Empoli",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/xArvJNCa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1646164800,
+              "EVENT_ID": "zmQQKEd2",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Inter",
+              "FK": "Inter",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1645811100,
+              "EVENT_ID": "f7wr99z6",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Udinese",
+              "FK": "Udinese",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AZBQMaYA-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1644751800,
+              "EVENT_ID": "xEwsq7bg",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Sampdoria",
+              "FK": "Sampdoria",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lnVY1W9r-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1644436800,
+              "EVENT_ID": "tj0Uidee",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Lazio",
+              "FK": "Lazio",
+              "FL": "",
+              "CURRENT_RESULT": "4:0",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/zXqymff5-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642967100,
+              "EVENT_ID": "rFC6kl4S",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Juventus",
+              "FK": "Juventus",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CbDOFGyS-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642440600,
+              "EVENT_ID": "zVpHvXkA",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Spezia",
+              "FK": "Spezia",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2yWnWaBr-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1642104000,
+              "EVENT_ID": "C6lwus0U",
+              "EVENT_NAME": "Coppa Italia",
+              "AC": "10",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "COP",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Genoa",
+              "FK": "Genoa",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/KKFT9LZA-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(1:1)",
+              "KX": "1",
+              "KY": "1",
+              "WL_ICON_TYPE": "wo",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1641490200,
+              "EVENT_ID": "WGz4Ezx5",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "AS Roma",
+              "FK": "AS Roma",
+              "FL": "",
+              "CURRENT_RESULT": "3:1",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QPgsexZA-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1639943100,
+              "EVENT_ID": "Yq7w26nr",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Napoli",
+              "FK": "Napoli",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lhPsgJWg-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638626400,
+              "EVENT_ID": "K2AgsWAF",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Salernitana",
+              "FK": "Salernitana",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/K8hPw2h5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1638108000,
+              "EVENT_ID": "K4LWVs6n",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Sassuolo",
+              "FK": "Sassuolo",
+              "FL": "",
+              "CURRENT_RESULT": "1:3",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IFKEHRGG-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1636314300,
+              "EVENT_ID": "fZaDLxRs",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Inter",
+              "FK": "Inter",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635961500,
+              "EVENT_ID": "lII8hQSp",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "FC Porto",
+              "FK": "FC Porto",
+              "FL": "",
+              "CURRENT_RESULT": "1:1",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1635273900,
+              "EVENT_ID": "MgDKKmN4",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Torino",
+              "FK": "Torino",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/OQWGjGcM-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1634409900,
+              "EVENT_ID": "vy5fcgPt",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Verona",
+              "FK": "Verona",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vgsKSajl-EJoO9TRD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1632855600,
+              "EVENT_ID": "vqTYbSkH",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Atl. Madrid",
+              "FK": "Atl. Madrid",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1632336300,
+              "EVENT_ID": "ITrmpkYP",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Venezia",
+              "FK": "Venezia",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/WxiS2Wkl-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1631462400,
+              "EVENT_ID": "6iATbire",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Lazio",
+              "FK": "Lazio",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/zXqymff5-fguToQZ6.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1630262700,
+              "EVENT_ID": "S0kfphT1",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Cagliari",
+              "FK": "Cagliari",
+              "FL": "",
+              "CURRENT_RESULT": "4:1",
+              "HOME_SCORE_FULL": "4",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IBlLf9f5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1628965800,
+              "EVENT_ID": "ULTDP5zt",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Panathinaikos",
+              "FK": "Panathinaikos",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Me3pW6Ea-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1627138800,
+              "EVENT_ID": "8vJrYhCh",
+              "EVENT_NAME": "Club Friendly",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "CF",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Modena",
+              "FK": "Modena",
+              "FL": "",
+              "CURRENT_RESULT": "5:0",
+              "HOME_SCORE_FULL": "5",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/fk5PBih5-8dqXppkD.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1621190700,
+              "EVENT_ID": "lGXP7ZfB",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Cagliari",
+              "FK": "Cagliari",
+              "FL": "",
+              "CURRENT_RESULT": "0:0",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/IBlLf9f5-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "home"
+            },
+            {
+              "START_TIME": 1619894700,
+              "EVENT_ID": "xGWcm8DR",
+              "EVENT_NAME": "Serie A",
+              "AC": "3",
+              "COUNTRY_ID": 98,
+              "COUNTRY_NAME": "Italy",
+              "EVENT_ACRONYM": "SA",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Benevento",
+              "FK": "Benevento",
+              "FL": "",
+              "CURRENT_RESULT": "2:0",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/rm9NwUZA-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "home"
+            }
+          ]
+        },
+        {
+          "GROUP_LABEL": "Head-to-head matches",
+          "ITEMS": [
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1407018600,
+              "EVENT_ID": "IL4vLHS7",
+              "EVENT_NAME": "International Champions Cup",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "ICC",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1179945900,
+              "EVENT_ID": "zm7nzPnm",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1117046700,
+              "EVENT_ID": "bNqbTLJH",
+              "EVENT_NAME": "Champions League",
+              "AC": "11",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:4",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(3:3)",
+              "KX": "3",
+              "KY": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "TAB_NAME": "LIV - Away",
+      "GROUPS": [
+        {
+          "GROUP_LABEL": "Last matches: Liverpool",
+          "ITEMS": [
+            {
+              "START_TIME": 1647799200,
+              "EVENT_ID": "jXsJtb7J",
+              "EVENT_NAME": "FA Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "FAC",
+              "HOME_PARTICIPANT": "Nottingham",
+              "FH": "Nottingham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/QkRJwBZA-8dqXppkD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1647461700,
+              "EVENT_ID": "b76idBaF",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Arsenal",
+              "FH": "Arsenal",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1647088200,
+              "EVENT_ID": "fw8omSwa",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Brighton",
+              "FH": "Brighton",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/40juIezB-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1645979400,
+              "EVENT_ID": "nykmEn2c",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "11",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Chelsea",
+              "FH": "Chelsea",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(0:0)",
+              "KX": "0",
+              "KY": "0",
+              "WL_ICON_TYPE": "wo",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1645041600,
+              "EVENT_ID": "UDVwQLLK",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Inter",
+              "FH": "Inter",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lxz64qDa-jq9ih1dt.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1644760800,
+              "EVENT_ID": "UcovWEoA",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Burnley",
+              "FH": "Burnley",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/lAaUWxe5-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1642946400,
+              "EVENT_ID": "zwB8iSCf",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Crystal Palace",
+              "FH": "Crystal Palace",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:3",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/AFNlsDzS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1642707900,
+              "EVENT_ID": "pW4gALHA",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Arsenal",
+              "FH": "Arsenal",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/pfchdCg5-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1641141000,
+              "EVENT_ID": "Yi5FqvFG",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Chelsea",
+              "FH": "Chelsea",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/GMmvDEdM-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1640721600,
+              "EVENT_ID": "x6LCPINp",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*Leicester",
+              "FH": "Leicester",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:0",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "0",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Em1CYqYg-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1639931400,
+              "EVENT_ID": "nwYVKZKI",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Tottenham",
+              "FH": "Tottenham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:2",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/ARC62UAr-8dqXppkD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638630000,
+              "EVENT_ID": "pC6HJVwc",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Wolves",
+              "FH": "Wolves",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:1",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Iwsrq5xS-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1638389700,
+              "EVENT_ID": "ULH0hgub",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Everton",
+              "FH": "Everton",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:4",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/EwJqZUZA-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1636302600,
+              "EVENT_ID": "0S6SM1kD",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "*West Ham",
+              "FH": "West Ham",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:2",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/Qo3RdMjl-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "l",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1635360300,
+              "EVENT_ID": "Op8jcEe8",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Preston",
+              "FH": "Preston",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vFaP2idM-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1635089400,
+              "EVENT_ID": "ve75FbQk",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Manchester Utd",
+              "FH": "Manchester Utd",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:5",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/nwSRlyWg-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634670000,
+              "EVENT_ID": "0h8apTzO",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "Atl. Madrid",
+              "FH": "Atl. Madrid",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:3",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CjfjIsYg-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1634383800,
+              "EVENT_ID": "4QjVDoko",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Watford",
+              "FH": "Watford",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:5",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/C2N3btil-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632855600,
+              "EVENT_ID": "hnXxbn5N",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "FC Porto",
+              "FH": "FC Porto",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:5",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "5",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/2sDzOhWg-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632587400,
+              "EVENT_ID": "YwIf3eyQ",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Brentford",
+              "FH": "Brentford",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:3",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/bBj3NWfM-fguToQZ6.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "d",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1632249900,
+              "EVENT_ID": "2iL4RcIF",
+              "EVENT_NAME": "EFL Cup",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "EFL",
+              "HOME_PARTICIPANT": "Norwich",
+              "FH": "Norwich",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1631460600,
+              "EVENT_ID": "jcepmqoS",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Leeds",
+              "FH": "Leeds",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/rsvCPOh5-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            },
+            {
+              "START_TIME": 1628958600,
+              "EVENT_ID": "zyjnqNL1",
+              "EVENT_NAME": "Premier League",
+              "AC": "3",
+              "COUNTRY_ID": 198,
+              "COUNTRY_NAME": "England",
+              "EVENT_ACRONYM": "PL",
+              "HOME_PARTICIPANT": "Norwich",
+              "FH": "Norwich",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:3",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "3",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/CY8Xm4wS-0WuPn6K0.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "WL_ICON_TYPE": "w",
+              "KS": "away"
+            }
+          ]
+        },
+        {
+          "GROUP_LABEL": "Head-to-head matches",
+          "ITEMS": [
+            {
+              "START_TIME": 1638907200,
+              "EVENT_ID": "n9Wtc6KT",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "1:2",
+              "HOME_SCORE_FULL": "1",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1407018600,
+              "EVENT_ID": "IL4vLHS7",
+              "EVENT_NAME": "International Champions Cup",
+              "AC": "3",
+              "COUNTRY_ID": 8,
+              "COUNTRY_NAME": "World",
+              "EVENT_ACRONYM": "ICC",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "*Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "0:2",
+              "HOME_SCORE_FULL": "0",
+              "AWAY_SCORE_FULL": "2",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1179945900,
+              "EVENT_ID": "zm7nzPnm",
+              "EVENT_NAME": "Champions League",
+              "AC": "3",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "*AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "2:1",
+              "HOME_SCORE_FULL": "2",
+              "AWAY_SCORE_FULL": "1",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ]
+            },
+            {
+              "START_TIME": 1117046700,
+              "EVENT_ID": "bNqbTLJH",
+              "EVENT_NAME": "Champions League",
+              "AC": "11",
+              "COUNTRY_ID": 6,
+              "COUNTRY_NAME": "Europe",
+              "EVENT_ACRONYM": "CL",
+              "HOME_PARTICIPANT": "AC Milan",
+              "FH": "AC Milan",
+              "FJ": "",
+              "AWAY_PARTICIPANT": "Liverpool",
+              "FK": "Liverpool",
+              "FL": "",
+              "CURRENT_RESULT": "3:4",
+              "HOME_SCORE_FULL": "3",
+              "AWAY_SCORE_FULL": "4",
+              "HOME_IMAGES": [
+                "https://www.flashscore.com/res/image/data/htYjIjFa-EJoO9TRD.png"
+              ],
+              "AWAY_IMAGES": [
+                "https://www.flashscore.com/res/image/data/vwC9RGhl-0WuPn6K0.png"
+              ],
+              "FT_RESULT": "(3:3)",
+              "KX": "3",
+              "KY": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

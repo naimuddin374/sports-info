@@ -1,0 +1,27 @@
+{
+  "DATA": {
+    "ID": "vgOOdZbd",
+    "LAYOUT": "RESULTS_FIXTURES",
+    "SHORT_NAME": "Messi L.",
+    "GENDER_ID": 1,
+    "COUNTRY_ID": 22,
+    "COUNTRY_NAME": "Argentina",
+    "IMAGE_PATH": "https://www.flashscore.com/res/image/data/x8XMQiZA-IPZKJUAo.png",
+    "IMM": "vgOOdZbd",
+    "IMW": "100",
+    "IMP": "x8XMQiZA-IPZKJUAo.png",
+    "IME": "",
+    "IMAGE_TABLE_PATH": null,
+    "NAME": "Lionel Messi",
+    "BIRTHDAY_TIME": "551491200",
+    "TYPE_ID": 15,
+    "TYPE_NAME": "forward",
+    "TAB": "N",
+    "PARENT_NAME": "Argentina",
+    "TEAM_ID": "CjhkPw0k",
+    "TEAM_PARTICIPANT_TYPE": 2,
+    "TEAM_IMAGE": "https://www.flashscore.com/res/image/data/EskJufg5-lIDJVsTo.png",
+    "TEAM_NAME": "Paris SG",
+    "SPORT_ID": 1
+  }
+}

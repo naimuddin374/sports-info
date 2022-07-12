@@ -1,0 +1,84 @@
+{
+  "external_id": "nuoDxVbt",
+  "id": "nuoDxVbt",
+  "type": "event",
+  "data": {
+    "NAME": "Algeria: Ligue 1",
+    "HEADER": "Algeria: Ligue 1;172;EscjSyXI",
+    "NAME_PART_1": "Algeria",
+    "NAME_PART_2": "Ligue 1",
+    "TOURNAMENT_TEMPLATE_ID": "zLQAGOBK",
+    "COUNTRY_ID": 18,
+    "COUNTRY_NAME": "Algeria",
+    "TOURNAMENT_STAGE_ID": "EscjSyXI",
+    "TOURNAMENT_TYPE": "p",
+    "TOURNAMENT_ID": "OOEFjCk0",
+    "SOURCE_TYPE": 0,
+    "HAS_LIVE_TABLE": 0,
+    "STANDING_INFO": 1,
+    "TEMPLATE_ID": "18_zLQAGOBK",
+    "TOURNAMENT_STAGE_TYPE": 2,
+    "SHORT_NAME": "Ligue 1",
+    "URL": "/football/algeria/ligue-1/",
+    "TOURNAMENT_IMAGE": "https://www.flashscore.com/res/image/data/23QnlokD-A3hKGyMD.png",
+    "STAGES_COUNT": 0,
+    "ZKL": "",
+    "ZKU": "",
+    "TOURNAMENT_SEASON_ID": "OOEFjCk0",
+    "CATEGORY_NAME": "Algeria",
+    "EVENT_ID": "nuoDxVbt",
+    "START_TIME": 1648476000,
+    "START_UTIME": 1648476000,
+    "STAGE_TYPE": "FINISHED",
+    "MERGE_STAGE_TYPE": "FINISHED",
+    "STAGE": "FINISHED",
+    "SORT": "Biskra",
+    "ROUND": "Round 23",
+    "VISIBLE_RUN_RATE": 0,
+    "HAS_LINEPS": 0,
+    "STAGE_START_TIME": 1648483175,
+    "GAME_TIME": "-1",
+    "RECENT_OVERS": "",
+    "SHORTNAME_HOME": "BIS",
+    "HOME_PARTICIPANT_IDS": [
+      "pMubgZIP"
+    ],
+    "HOME_PARTICIPANT_TYPES": [
+      1
+    ],
+    "HOME_NAME": "Biskra",
+    "FH": "Biskra",
+    "HOME_EVENT_PARTICIPANT_ID": "6ysc1UrB",
+    "HOME_GOAL_VAR": 0,
+    "HOME_SCORE_CURRENT": "0",
+    "HOME_SCORE_PART_1": "0",
+    "HOME_SCORE_PART_2": "0",
+    "HOME_IMAGES": [
+      "https://www.flashscore.com/res/image/data/pnt336yB-KlQwvDFp.png"
+    ],
+    "IMM": "Wfaskwf0",
+    "IMW": "100",
+    "IMP": "lh2AXye5-MaFJvwsl.png",
+    "IME": "",
+    "SHORTNAME_AWAY": "KAB",
+    "AWAY_PARTICIPANT_IDS": [
+      "Wfaskwf0"
+    ],
+    "AWAY_PARTICIPANT_TYPES": [
+      1
+    ],
+    "AWAY_NAME": "Kabylie",
+    "FK": "Kabylie",
+    "AWAY_EVENT_PARTICIPANT_ID": "0bt10lbH",
+    "WINNER": 2,
+    "ODDS_WINNER": 2,
+    "ODDS_WINNER_OUTCOME": 2,
+    "AWAY_GOAL_VAR": 0,
+    "AWAY_SCORE_CURRENT": "1",
+    "AWAY_SCORE_PART_1": "1",
+    "AWAY_SCORE_PART_2": "0",
+    "AWAY_IMAGES": [
+      "https://www.flashscore.com/res/image/data/lh2AXye5-MaFJvwsl.png"
+    ]
+  }
+}

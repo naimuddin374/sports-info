@@ -1,0 +1,406 @@
+{
+  "DATA": {
+    "SPORTS": [
+      {
+        "SPORT_ID": 1,
+        "EVENTS_COUNT": 99,
+        "EVENTS_COUNT_LIVE": 9,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "SOCCER"
+      },
+      {
+        "SPORT_ID": 2,
+        "EVENTS_COUNT": 102,
+        "EVENTS_COUNT_LIVE": 14,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "TENNIS"
+      },
+      {
+        "SPORT_ID": 3,
+        "EVENTS_COUNT": 69,
+        "EVENTS_COUNT_LIVE": 10,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "BASKETBALL"
+      },
+      {
+        "SPORT_ID": 4,
+        "EVENTS_COUNT": 34,
+        "EVENTS_COUNT_LIVE": 7,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "HOCKEY"
+      },
+      {
+        "SPORT_ID": 21,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "BADMINTON"
+      },
+      {
+        "SPORT_ID": 6,
+        "EVENTS_COUNT": 14,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "BASEBALL"
+      },
+      {
+        "SPORT_ID": 23,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "GOLF"
+      },
+      {
+        "SPORT_ID": 14,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "DARTS"
+      },
+      {
+        "SPORT_ID": 25,
+        "EVENTS_COUNT": 390,
+        "EVENTS_COUNT_LIVE": 9,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "TABLE_TENNIS"
+      },
+      {
+        "SPORT_ID": 37,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 1,
+        "SPORT_NAME": "WINTER_SPORTS"
+      },
+      {
+        "SPORT_ID": 5,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "AMERICAN_FOOTBALL"
+      },
+      {
+        "SPORT_ID": 18,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "AUSSIE_RULES"
+      },
+      {
+        "SPORT_ID": 10,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "BANDY"
+      },
+      {
+        "SPORT_ID": 26,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "BEACH_SOCCER"
+      },
+      {
+        "SPORT_ID": 17,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "BEACH_VOLLEYBALL"
+      },
+      {
+        "SPORT_ID": 16,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "BOXING"
+      },
+      {
+        "SPORT_ID": 13,
+        "EVENTS_COUNT": 9,
+        "EVENTS_COUNT_LIVE": 1,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "CRICKET"
+      },
+      {
+        "SPORT_ID": 34,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "CYCLING"
+      },
+      {
+        "SPORT_ID": 36,
+        "EVENTS_COUNT": 3,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "ESPORTS"
+      },
+      {
+        "SPORT_ID": 24,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "FIELD_HOCKEY"
+      },
+      {
+        "SPORT_ID": 9,
+        "EVENTS_COUNT": 4,
+        "EVENTS_COUNT_LIVE": 2,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "FLOORBALL"
+      },
+      {
+        "SPORT_ID": 11,
+        "EVENTS_COUNT": 11,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "FUTSAL"
+      },
+      {
+        "SPORT_ID": 7,
+        "EVENTS_COUNT": 8,
+        "EVENTS_COUNT_LIVE": 1,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "HANDBALL"
+      },
+      {
+        "SPORT_ID": 35,
+        "EVENTS_COUNT": 95,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "HORSE_RACING"
+      },
+      {
+        "SPORT_ID": 42,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "KABADDI"
+      },
+      {
+        "SPORT_ID": 28,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "MMA"
+      },
+      {
+        "SPORT_ID": 31,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "MOTORSPORT"
+      },
+      {
+        "SPORT_ID": 29,
+        "EVENTS_COUNT": 3,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "NETBALL"
+      },
+      {
+        "SPORT_ID": 30,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "PESAPALLO"
+      },
+      {
+        "SPORT_ID": 19,
+        "EVENTS_COUNT": 1,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "RUGBY_LEAGUE"
+      },
+      {
+        "SPORT_ID": 8,
+        "EVENTS_COUNT": 0,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "RUGBY_UNION"
+      },
+      {
+        "SPORT_ID": 15,
+        "EVENTS_COUNT": 1,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "SNOOKER"
+      },
+      {
+        "SPORT_ID": 12,
+        "EVENTS_COUNT": 28,
+        "EVENTS_COUNT_LIVE": 5,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "VOLLEYBALL"
+      },
+      {
+        "SPORT_ID": 22,
+        "EVENTS_COUNT": 1,
+        "EVENTS_COUNT_LIVE": 0,
+        "IS_POPULAR": 0,
+        "SPORT_NAME": "WATER_POLO"
+      }
+    ],
+    "EXTENDED_SPORTS": [
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 1,
+        "SPORT_SORT": 0
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 2,
+        "SPORT_SORT": 1
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 3,
+        "SPORT_SORT": 2
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 4,
+        "SPORT_SORT": 3
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 21,
+        "SPORT_SORT": 4
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 6,
+        "SPORT_SORT": 5
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 23,
+        "SPORT_SORT": 6
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 14,
+        "SPORT_SORT": 7
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 25,
+        "SPORT_SORT": 8
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 37,
+        "SPORT_SORT": 9
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 39,
+        "SPORT_SORT": 10
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 40,
+        "SPORT_SORT": 11
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 41,
+        "SPORT_SORT": 12
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 38,
+        "SPORT_SORT": 13
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 5,
+        "SPORT_SORT": 14
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 18,
+        "SPORT_SORT": 15
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 10,
+        "SPORT_SORT": 16
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 26,
+        "SPORT_SORT": 17
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 17,
+        "SPORT_SORT": 18
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 16,
+        "SPORT_SORT": 19
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 13,
+        "SPORT_SORT": 20
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 34,
+        "SPORT_SORT": 21
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 36,
+        "SPORT_SORT": 22
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 24,
+        "SPORT_SORT": 23
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 9,
+        "SPORT_SORT": 24
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 11,
+        "SPORT_SORT": 25
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 7,
+        "SPORT_SORT": 26
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 35,
+        "SPORT_SORT": 27
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 42,
+        "SPORT_SORT": 28
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 28,
+        "SPORT_SORT": 29
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 31,
+        "SPORT_SORT": 30
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 32,
+        "SPORT_SORT": 31
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 33,
+        "SPORT_SORT": 32
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 29,
+        "SPORT_SORT": 33
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 30,
+        "SPORT_SORT": 34
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 19,
+        "SPORT_SORT": 35
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 8,
+        "SPORT_SORT": 36
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 15,
+        "SPORT_SORT": 37
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 12,
+        "SPORT_SORT": 38
+      },
+      {
+        "SPORT_ID_FOR_EXTENDED_INFO": 22,
+        "SPORT_SORT": 39
+      }
+    ]
+  }
+}
